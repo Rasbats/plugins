@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 2.7.10.0-+3445.v2.7.9.0-beta </version>
+  <version> 2.7.11.0-+3460.v2.7.11.0-beta </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -20,6 +20,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>android-arm64</target>
   <target-version>16</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-beta/raw/names/ShipDriver-2.7-android-arm64-A64-16-tarball/versions/2.7.10.0-+3445.v2.7.9.0-beta/ShipDriver-2.7.10.0-+3445.v2.7.9.0-beta_android-arm64-16-arm64.tar.gz </tarball-url>
-  <tarball-checksum> 773a6f6ce008352f5e530ddea3abb51fd04ef266c1dea2f408ce264cf0f6cb32 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-beta/raw/names/ShipDriver-2.7-android-arm64-A64-16-tarball/versions/2.7.11.0-+3460.v2.7.11.0-beta/ShipDriver-2.7.11.0-+3460.v2.7.11.0-beta_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 4c717e247612b3ba6287ccab6c742bca79d672e3313c4b8afccb4e6be390ecfc </tarball-checksum>
 </plugin>
