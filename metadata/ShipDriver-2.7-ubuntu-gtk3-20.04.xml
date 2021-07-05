@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 2.7.11.0-+3452.v2.7.11.0-beta </version>
+  <version> 2.7.12.0-+3470.v2.7.12.0-beta </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -20,6 +20,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>ubuntu-gtk3-x86_64</target>
   <target-version>20.04</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-beta/raw/names/ShipDriver-2.7-ubuntu-gtk3-20.04-tarball/versions/2.7.11.0-+3452.v2.7.11.0-beta/ShipDriver-2.7.11.0-+3452.v2.7.11.0-beta_ubuntu-gtk3-20.04-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 79c884e78856476658dbfe64523c5bdeb7334ca866707dc87fd8674477feba18 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-beta/raw/names/ShipDriver-2.7-ubuntu-gtk3-20.04-tarball/versions/2.7.12.0-+3470.v2.7.12.0-beta/ShipDriver-2.7.12.0-+3470.v2.7.12.0-beta_ubuntu-gtk3-20.04-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 694740d593a4133c09bb2102ab4aa7e2c9f7679a8d5592b1213f619c1de87a43 </tarball-checksum>
 </plugin>
