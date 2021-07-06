@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 2.7.12.0-+3478.504c9f0 </version>
+  <version> 2.7.13.0-+3487.v2.7.13.0-beta </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -20,6 +20,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>android-armhf</target>
   <target-version>16</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-2.7-android-armhf-16-tarball/versions/2.7.12.0-+3478.504c9f0/ShipDriver-2.7.12.0-+3478.504c9f0_android-armhf-16-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 4f9f7a7dd9c6b373f25a5a1cf121cf0069d95cd2ddc672f473a6fd0814c80ed2 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-beta/raw/names/ShipDriver-2.7-android-armhf-16-tarball/versions/2.7.13.0-+3487.v2.7.13.0-beta/ShipDriver-2.7.13.0-+3487.v2.7.13.0-beta_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 27cb4bf4eba34235c597c5021f02aec22b352e5295eb94be59741c56e0a77887 </tarball-checksum>
 </plugin>
