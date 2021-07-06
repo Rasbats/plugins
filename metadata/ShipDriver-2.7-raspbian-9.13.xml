@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 2.7.12.0-+2107051429.v2.7.12.0-beta </version>
+  <version> 2.7.12.0-+2107061728.3e3091a </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -20,6 +20,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>raspbian-armhf</target>
   <target-version>9.13</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-beta/raw/names/ShipDriver-2.7-raspbian-9.13-tarball/versions/2.7.12.0-+2107051429.v2.7.12.0-beta/ShipDriver-2.7.12.0-+2107051429.v2.7.12.0-beta_raspbian-9.13-armhf.tar.gz </tarball-url>
-  <tarball-checksum> ee2b20db38fa4a004bb4f40fb3b4ff19dfa9f7be2ff3bac96c4219b9a75cb196 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-2.7-raspbian-9.13-tarball/versions/2.7.12.0-+2107061728.3e3091a/ShipDriver-2.7.12.0-+2107061728.3e3091a_raspbian-9.13-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 5372d4b7d46d19abda9a58278d3d03bbee0a56071599eb0fa56764968a74a1ff </tarball-checksum>
 </plugin>
