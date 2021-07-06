@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 2.7.13.0-+641.v2.7.13.0-beta </version>
+  <version> 2.7.13.0-+642.v2.7.13.0-beta </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -20,6 +20,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>msvc</target>
   <target-version>10.0.14393</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-beta/raw/names/ShipDriver-2.7-msvc-10.0.14393-tarball/versions/2.7.13.0-+641.v2.7.13.0-beta/ShipDriver-2.7.13.0-+641.v2.7.13.0-beta_msvc-10.0.14393-win32.tar.gz </tarball-url>
-  <tarball-checksum> 58b8c6ae4cf9055943f6165c0d85f3760bd4265496dc8ae06b1795ab303032c4 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-beta/raw/names/ShipDriver-2.7-msvc-10.0.14393-tarball/versions/2.7.13.0-+642.v2.7.13.0-beta/ShipDriver-2.7.13.0-+642.v2.7.13.0-beta_msvc-10.0.14393-win32.tar.gz </tarball-url>
+  <tarball-checksum> 3abc2158c312c9d32faefb15141082041796d36bb2923ee77195cdc4439137d8 </tarball-checksum>
 </plugin>
