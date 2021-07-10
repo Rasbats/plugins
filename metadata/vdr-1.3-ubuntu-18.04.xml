@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> vdr </name>
-  <version> 1.3.1.0-+131.3c4d232 </version>
+  <version> 1.3.2.0-+137.eb365d7 </version>
   <release> 0 </release>
   <summary> Record/Playback vessels movements </summary>
 
@@ -17,6 +17,6 @@
   <target>ubuntu-x86_64</target>
   <target-version>18.04</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-ubuntu-18.04-tarball/versions/1.3.1.0-+131.3c4d232/vdr-1.3.1.0-+131.3c4d232_ubuntu-18.04-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 3697f561efbf72c8095984d1eaebfd342b319a33b3e265fc1908995bea0192d8 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-ubuntu-18.04-tarball/versions/1.3.2.0-+137.eb365d7/vdr-1.3.2.0-+137.eb365d7_ubuntu-18.04-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> fc15dc66f51549720b7a348be99b06ac422c5f76b88efce5af447b4375c9d3f2 </tarball-checksum>
 </plugin>
