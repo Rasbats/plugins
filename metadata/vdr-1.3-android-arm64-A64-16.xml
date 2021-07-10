@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin version="1">
+  <name> vdr </name>
+  <version> 1.3.2.0-+142.eb365d7 </version>
+  <release> 0 </release>
+  <summary> Record/Playback vessels movements </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/vdr_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/vdr.html </info-url>
+
+  <description> Allows playback.
+ </description>
+
+  <target>android-arm64</target>
+  <target-version>16</target-version>
+  <target-arch>arm64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-android-arm64-A64-16-tarball/versions/1.3.2.0-+142.eb365d7/vdr-1.3.2.0-+142.eb365d7_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> a393740d6d085c725789a8e936656cc7324dc6be26d960c89dd55ca6f1839f79 </tarball-checksum>
+</plugin>
