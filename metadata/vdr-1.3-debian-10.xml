@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> vdr </name>
-  <version> 1.3.1.0-+132.3c4d232 </version>
+  <version> 1.3.2.0-+139.eb365d7 </version>
   <release> 0 </release>
   <summary> Record/Playback vessels movements </summary>
 
@@ -17,6 +17,6 @@
   <target>debian-x86_64</target>
   <target-version>10</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-debian-10-tarball/versions/1.3.1.0-+132.3c4d232/vdr-1.3.1.0-+132.3c4d232_debian-10-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 726d0d8d0f614ca5af7869a55605d915fe0fc5c33921eb4037fc052466861ae4 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-debian-10-tarball/versions/1.3.2.0-+139.eb365d7/vdr-1.3.2.0-+139.eb365d7_debian-10-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> f94cdaaac35e0363889536ee57503a373ebae4519da055f71a5383f133a84864 </tarball-checksum>
 </plugin>
