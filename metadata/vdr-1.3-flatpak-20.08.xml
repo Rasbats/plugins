@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> vdr </name>
-  <version> 1.3.4.0-+158.635d267 </version>
+  <version> 1.3.4.0-+186.b0617d8 </version>
   <release> 0 </release>
   <summary> Record/Playback vessels movements </summary>
 
@@ -17,6 +17,6 @@
   <target>flatpak-x86_64</target>
   <target-version>20.08</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-flatpak-20.08-tarball/versions/1.3.4.0-+158.635d267/vdr-1.3.4.0-+158.635d267_flatpak-20.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> adde2423c2948b11a3f398a610efc31f6133f9078f747ed6f27598980b57f70a </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-flatpak-20.08-tarball/versions/1.3.4.0-+186.b0617d8/vdr-1.3.4.0-+186.b0617d8_flatpak-20.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> e9a8d0c072f024c4d5ae87a2424373959a5c9ec0109b8647264d289b369958f9 </tarball-checksum>
 </plugin>
