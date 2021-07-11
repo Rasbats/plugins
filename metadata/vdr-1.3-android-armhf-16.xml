@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> vdr </name>
-  <version> 1.3.3.0-+149.532c15f </version>
+  <version> 1.3.4.0-+162.635d267 </version>
   <release> 0 </release>
   <summary> Record/Playback vessels movements </summary>
 
@@ -17,6 +17,6 @@
   <target>android-armhf</target>
   <target-version>16</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-android-armhf-16-tarball/versions/1.3.3.0-+149.532c15f/vdr-1.3.3.0-+149.532c15f_android-armhf-16-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 23074a7d7d77d3d29dee5f1527883e23b51588ac2343bd7f3bfc061e6d019747 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-android-armhf-16-tarball/versions/1.3.4.0-+162.635d267/vdr-1.3.4.0-+162.635d267_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 27ed3658713c1aefd2cbee7afe2e22a62199fbc600e781b2269288f06b0f7020 </tarball-checksum>
 </plugin>
