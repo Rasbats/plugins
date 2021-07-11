@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin version="1">
+  <name> VDR </name>
+  <version> 1.2.10.0-+167.e22472d </version>
+  <release> 0 </release>
+  <summary> Voyage Data Recorder </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Rick Gleason </author>
+  <source> https://github.com/rgleason/vdr_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/vdr.html </info-url>
+
+  <description> Voyage Data Recorder plugin for OpenCPN. Provides NMEA stream save and replay.
+ </description>
+
+  <target>android-armhf</target>
+  <target-version>16</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.2-android-armhf-16-tarball/versions/1.2.10.0-+167.e22472d/VDR-1.2.10.0-+167.e22472d_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 7cb661016d26d3713812b4e63a4e01d501db0cf3069d1ad50401ec6a37d10f57 </tarball-checksum>
+</plugin>
