@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin version="1">
+  <name> VDR </name>
+  <version> 1.2.10.0-+174.e22472d </version>
+  <release> 0 </release>
+  <summary> Voyage Data Recorder </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Rick Gleason </author>
+  <source> https://github.com/rgleason/vdr_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/vdr.html </info-url>
+
+  <description> Voyage Data Recorder plugin for OpenCPN. Provides NMEA stream save and replay.
+ </description>
+
+  <target>ubuntu-x86_64</target>
+  <target-version>16.04</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.2-ubuntu-16.04-tarball/versions/1.2.10.0-+174.e22472d/VDR-1.2.10.0-+174.e22472d_ubuntu-16.04-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 2e5036642ff7f522f820f9aa9f4fe3c5c6430809975b1706723aaa02f95776fc </tarball-checksum>
+</plugin>
