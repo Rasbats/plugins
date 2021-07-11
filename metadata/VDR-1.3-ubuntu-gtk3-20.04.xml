@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin version="1">
+  <name> VDR </name>
+  <version> 1.3.4.0-+194.624b7a6 </version>
+  <release> 0 </release>
+  <summary> Record/Playback vessels movements </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/vdr_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/vdr.html </info-url>
+
+  <description> Allows playback.
+ </description>
+
+  <target>ubuntu-gtk3-x86_64</target>
+  <target-version>20.04</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.3-ubuntu-gtk3-20.04-tarball/versions/1.3.4.0-+194.624b7a6/VDR-1.3.4.0-+194.624b7a6_ubuntu-gtk3-20.04-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> c3b8cdedb99fd94c6841d61322386892bc2c41c4b4d6dfcb31446685930c2e71 </tarball-checksum>
+</plugin>
