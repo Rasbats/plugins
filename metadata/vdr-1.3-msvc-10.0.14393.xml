@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> vdr </name>
-  <version> 1.3.4.0-+16.635d267 </version>
+  <version> 1.3.4.0-+18.b0617d8 </version>
   <release> 0 </release>
   <summary> Record/Playback vessels movements </summary>
 
@@ -17,6 +17,6 @@
   <target>msvc</target>
   <target-version>10.0.14393</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-msvc-10.0.14393-tarball/versions/1.3.4.0-+16.635d267/vdr-1.3.4.0-+16.635d267_msvc-10.0.14393-win32.tar.gz </tarball-url>
-  <tarball-checksum> e8c288aba31da97e9bf7cc3a7000f986c8bf5c4e134fa21ae9d67cebb5ee59ee </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/vdr-1.3-msvc-10.0.14393-tarball/versions/1.3.4.0-+18.b0617d8/vdr-1.3.4.0-+18.b0617d8_msvc-10.0.14393-win32.tar.gz </tarball-url>
+  <tarball-checksum> 1d84a69a620f130eeceb2d4f787e49f9fa470454ea554472362b703b25a39c08 </tarball-checksum>
 </plugin>
