@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> VDR </name>
-  <version> 1.3.5.1-+2107171352.ba408b1 </version>
-  <release> 1 </release>
+  <version> 1.3.5.2-+2107181252.6eb42ae </version>
+  <release> 2 </release>
   <summary> Record/Playback vessels nmea and movements </summary>
 
   <api-version> 1.16 </api-version>
@@ -11,12 +11,12 @@
   <source> https://github.com/rgleason/vdr_pi </source>
   <info-url> https://opencpn.org/OpenCPN/plugins/vdr.html </info-url>
 
-  <description> Allows playback.d
+  <description> Voyage Data Recorder NMEA stream save and replay
  </description>
 
   <target>raspbian-armhf</target>
   <target-version>9.13</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.3-raspbian-9.13-tarball/versions/1.3.5.1-+2107171352.ba408b1/VDR-1.3.5.1-+2107171352.ba408b1_raspbian-9.13-armhf.tar.gz </tarball-url>
-  <tarball-checksum> b25a9abbbdd4407b434cd2ff2bd3f5ce38209865d2cc643635be588c72db6131 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.3-raspbian-9.13-tarball/versions/1.3.5.2-+2107181252.6eb42ae/VDR-1.3.5.2-+2107181252.6eb42ae_raspbian-9.13-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 338fe108d91fa7794331407afc603230dd10b907f936d2e29e3d139006985eba </tarball-checksum>
 </plugin>
