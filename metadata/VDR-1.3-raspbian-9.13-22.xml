@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin version="1">
+  <name> VDR </name>
+  <version> 1.3.5.5-+22.2bfd178 </version>
+  <release> 5 </release>
+  <summary> Voyage Data Recorder </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Rick Gleason </author>
+  <source> https://github.com/rgleason/vdr_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/vdr.html </info-url>
+
+  <description> Record/Playback vessels nmea and movements.
+ </description>
+
+  <target>raspbian-armhf</target>
+  <target-version>9.13</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.3-raspbian-9.13-tarball/versions/1.3.5.5-+22.2bfd178/VDR-1.3.5.5-+22.2bfd178_raspbian-9.13-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 4ff86d7f43069ea5796c70dc605e30a1efac434c4300720a7be18e457f830401 </tarball-checksum>
+</plugin>
