@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> vfkaps </name>
-  <version> 4.1.1+723.b52e1b6 </version>
+  <version> 4.1.1+735.06698bb </version>
   <release> 0 </release>
   <summary> Produce KAP charts from downloaded satellite images </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-wx32-arm64</target>
   <target-version>11</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vfkaps-alpha/raw/names/vfkaps-4.1-debian-wx32-arm64-A64-11-tarball/versions/4.1.1+723.b52e1b6/vfkaps-4.1.1+723.b52e1b6_debian-wx32-arm64-11-arm64.tar.gz </tarball-url>
-  <tarball-checksum> b2bc6110c23b88072a0d61bc3f7175153b50d87cc21454458af9e9bb7e6253c3 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vfkaps-alpha/raw/names/vfkaps-4.1-debian-wx32-arm64-A64-11-tarball/versions/4.1.1+735.06698bb/vfkaps-4.1.1+735.06698bb_debian-wx32-arm64-11-arm64.tar.gz </tarball-url>
+  <tarball-checksum> cd86b5b351a182dec1a0b1f10e71b21f4c730ef58f1dd678f30ab59c20884b43 </tarball-checksum>
 </plugin>
