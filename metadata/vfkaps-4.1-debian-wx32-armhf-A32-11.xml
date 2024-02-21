@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> vfkaps </name>
+  <version> 4.1.1+724.b52e1b6 </version>
+  <release> 0 </release>
+  <summary> Produce KAP charts from downloaded satellite images </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/vfkaps_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/vfkaps.html </info-url>
+
+  <description> Download and install KAP charts from VentureFarther.com.
+ </description>
+
+  <target>debian-wx32-armhf</target>
+  <target-version>11</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vfkaps-alpha/raw/names/vfkaps-4.1-debian-wx32-armhf-A32-11-tarball/versions/4.1.1+724.b52e1b6/vfkaps-4.1.1+724.b52e1b6_debian-wx32-armhf-11-armhf.tar.gz </tarball-url>
+  <tarball-checksum> b40584b11872a1d9195d6e6830f03c705fafc3a5547935a44c2f8f95ae5ec9da </tarball-checksum>
+</plugin>
