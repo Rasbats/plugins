@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/vfkaps_pi/729 -->
+<!-- https://circleci.com/gh/Rasbats/vfkaps_pi/741 -->
 <plugin version="1">
   <name> vfkaps </name>
-  <version> 4.1.1+729.06698bb </version>
+  <version> 4.1.1+741.faeced3 </version>
   <release> 0 </release>
   <summary> Produce KAP charts from downloaded satellite images </summary>
 
@@ -18,6 +18,6 @@
   <target>flatpak-x86_64</target>
   <target-version>22.08</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vfkaps-alpha/raw/names/vfkaps-4.1-flatpak-x86_64-22.08-tarball/versions/4.1.1+729.06698bb/vfkaps-4.1.1+729.06698bb_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 35f14fa6bd298650fb7a1f94687498fca853f637028d89cedc7169d721b8c7cc </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vfkaps-alpha/raw/names/vfkaps-4.1-flatpak-x86_64-22.08-tarball/versions/4.1.1+741.faeced3/vfkaps-4.1.1+741.faeced3_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> cf73a1b362c68c70397a45ff49a7229910f12c34b32fa21a69a65883fa4a65f3 </tarball-checksum>
 </plugin>
