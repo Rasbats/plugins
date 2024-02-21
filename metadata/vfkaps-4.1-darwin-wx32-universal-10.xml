@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/vfkaps_pi/698 -->
+<!-- https://circleci.com/gh/Rasbats/vfkaps_pi/717 -->
 <plugin version="1">
   <name> vfkaps </name>
-  <version> 4.1.0+698.4631fbf </version>
+  <version> 4.1.1+717.b52e1b6 </version>
   <release> 0 </release>
   <summary> Produce KAP charts from downloaded satellite images </summary>
 
-  <api-version> 1.16 </api-version>
+  <api-version> 1.18 </api-version>
   <open-source> yes </open-source>
   <author> Mike Rossiter </author>
   <source> https://github.com/Rasbats/vfkaps_pi </source>
@@ -18,6 +18,6 @@
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vfkaps-alpha/raw/names/vfkaps-4.1-darwin-wx32-universal-10-tarball/versions/4.1.0+698.4631fbf/vfkaps-4.1.0+698.4631fbf_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> f3e3bbcb0eaad938a7b2c61f3229db49f1d3a03097819145d0dfeeac04b242a5 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vfkaps-alpha/raw/names/vfkaps-4.1-darwin-wx32-universal-10-tarball/versions/4.1.1+717.b52e1b6/vfkaps-4.1.1+717.b52e1b6_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> d51c90958adb44f951791c1be93483f09e4e0bca3dbbba75390ed6daddb5ce89 </tarball-checksum>
 </plugin>
