@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> vfkaps </name>
-  <version> 4.1.1+737.06698bb </version>
+  <version> 4.1.1+750.faeced3 </version>
   <release> 0 </release>
   <summary> Produce KAP charts from downloaded satellite images </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-armhf</target>
   <target-version>12</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vfkaps-alpha/raw/names/vfkaps-4.1-debian-armhf-A32-12-tarball/versions/4.1.1+737.06698bb/vfkaps-4.1.1+737.06698bb_debian-armhf-12-armhf.tar.gz </tarball-url>
-  <tarball-checksum> d03e6fb812da13fd00d54e68591f86ea77d34d6624c06d1b17f7fbc72cb5512d </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vfkaps-alpha/raw/names/vfkaps-4.1-debian-armhf-A32-12-tarball/versions/4.1.1+750.faeced3/vfkaps-4.1.1+750.faeced3_debian-armhf-12-armhf.tar.gz </tarball-url>
+  <tarball-checksum> beff300f85fb5107bb5b666f932c98f22771db38eb647769e104cf372f265e8c </tarball-checksum>
 </plugin>
