@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/10194 -->
+<plugin version="1">
+  <name> ShipDriver </name>
+  <version> sd3.3.0-beta3 </version>
+  <release> 0 </release>
+  <summary> Simulate ship movements </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/shipdriver_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/shipdriver.html </info-url>
+
+  <description> Simulates navigation of a vessel. Using the sail option and a current
+grib file for wind data, simulates how a sailing vessel might react in
+those conditions. Using 'Preferences' the simulator is able to record AIS
+data from itself. This can be replayed to simulate collision situations.
+ </description>
+
+  <target>flatpak-x86_64</target>
+  <target-version>22.08</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-beta/raw/names/ShipDriver-sd3.3.0-beta3-flatpak-x86_64-22.08-tarball/versions/sd3.3.0-beta3/ShipDriver-sd3.3.0-beta3_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 89f181dfc53ea507b59e9b8d779e23ee1725f363f9b3dd52bf7fea800689edea </tarball-checksum>
+</plugin>
