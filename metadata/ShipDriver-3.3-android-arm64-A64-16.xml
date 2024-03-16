@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/10177 -->
+<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/10208 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.3.3+10177.1489625 </version>
+  <version> 3.3.4+10208.bedfe2f </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>android-arm64</target>
   <target-version>16</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.3-android-arm64-A64-16-tarball/versions/3.3.3+10177.1489625/ShipDriver-3.3.3+10177.1489625_android-arm64-16-arm64.tar.gz </tarball-url>
-  <tarball-checksum> ed3a34678def5bebfd3070fa3c0ac1121da65056fec670feb5de867e17e19f68 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.3-android-arm64-A64-16-tarball/versions/3.3.4+10208.bedfe2f/ShipDriver-3.3.4+10208.bedfe2f_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 8f245b0ab977ee0eabf8b25e895d11091541c11faa3032e385cdf1dde136df53 </tarball-checksum>
 </plugin>
