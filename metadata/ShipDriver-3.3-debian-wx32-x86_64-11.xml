@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/10180 -->
+<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/10216 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.3.3+10180.1489625 </version>
+  <version> 3.3.4+10216.bedfe2f </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>debian-wx32-x86_64</target>
   <target-version>11</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.3-debian-wx32-x86_64-11-tarball/versions/3.3.3+10180.1489625/ShipDriver-3.3.3+10180.1489625_debian-wx32-x86_64-11-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 372671a8cf0f549e1dbc90a15bc611246b0839bab7ba57e74077f4f3d5ac8a33 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.3-debian-wx32-x86_64-11-tarball/versions/3.3.4+10216.bedfe2f/ShipDriver-3.3.4+10216.bedfe2f_debian-wx32-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> ce86b6a37c9c072ffad63717d7fbab29a20b306c0a50a9aaea69a75654b3f40e </tarball-checksum>
 </plugin>
