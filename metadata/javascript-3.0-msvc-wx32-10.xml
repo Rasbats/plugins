@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/javascript-pi/builds/49478311 -->
+<!-- https://ci.appveyor.com/project/Rasbats/javascript-pi/builds/49483838 -->
 <plugin version="1">
   <name> javascript </name>
-  <version> 3.0.0-beta+404.7620f94 </version>
+  <version> 3.0.0-beta+406.5e0d3dd </version>
   <release> 0 </release>
   <summary> Run JavaScripts in the plugin </summary>
 
@@ -20,6 +20,6 @@ See help menu ? for documentation details
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch></target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-3.0-msvc-wx32-10-tarball/versions/3.0.0-beta+404.7620f94/javascript-3.0.0-beta+404.7620f94_msvc-wx32-10-win32.tar.gz </tarball-url>
-  <tarball-checksum> 8c4677c84572cd7190604d513b788513cb1dcb59b65fea06934045f2abbfc01a </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-3.0-msvc-wx32-10-tarball/versions/3.0.0-beta+406.5e0d3dd/javascript-3.0.0-beta+406.5e0d3dd_msvc-wx32-10-win32.tar.gz </tarball-url>
+  <tarball-checksum> 8be8ee1cdf82c3c78e984a278736469556a3f8a8d3dc45cad3e5fc8376a5505d </tarball-checksum>
 </plugin>
