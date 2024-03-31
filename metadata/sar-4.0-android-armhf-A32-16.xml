@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/sar_pi/1402 -->
+<plugin version="1">
+  <name> sar </name>
+  <version> 4.0.0+1402.0eae26f </version>
+  <release> 0 </release>
+  <summary> Produces SAR search patterns as GPX files </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/sar_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/sar.html </info-url>
+
+  <description> Enables production of SAR search patterns, in GPX format, that can
+be imported into OpenCPN to assist in performing searches.
+ </description>
+
+  <target>android-armhf</target>
+  <target-version>16</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.0-android-armhf-A32-16-tarball/versions/4.0.0+1402.0eae26f/sar-4.0.0+1402.0eae26f_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> b70293c38cab956bc26799a3c0fc31a871e7afc48e6d1f1af2460f6a5e98c53b </tarball-checksum>
+</plugin>
