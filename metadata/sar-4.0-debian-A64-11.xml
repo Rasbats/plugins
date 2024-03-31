@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> sar </name>
-  <version> 4.0.0+1381. </version>
+  <version> 4.0.0+1383. </version>
   <release>  </release>
   <summary> Produces SAR search patterns as GPX files </summary>
 
@@ -19,6 +19,6 @@ be imported into OpenCPN to assist in performing searches.
   <target>debian-arm64</target>
   <target-version>11</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.0-debian-A64-11-tarball/versions/4.0.0+1381./sar-4.0.0+1381._debian-11-arm64.tar.gz </tarball-url>
-  <tarball-checksum> befb636f552357e471b8e93911b38dac2969407bb4806b52a07bfee0f875d014 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.0-debian-A64-11-tarball/versions/4.0.0+1383./sar-4.0.0+1383._debian-11-arm64.tar.gz </tarball-url>
+  <tarball-checksum> a44d36686ffc0fd04064e55bbec896c9dcbcbca75c3c9c6bc12cf75862c6753f </tarball-checksum>
 </plugin>
