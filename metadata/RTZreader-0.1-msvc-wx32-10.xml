@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/rtzreader-pi/builds/49608072 -->
+<!-- https://ci.appveyor.com/project/Rasbats/rtzreader-pi/builds/49608128 -->
 <plugin version="1">
   <name> RTZreader </name>
-  <version> 0.1.0+11.7fb23b8 </version>
+  <version> 0.1.0+12.41aa562 </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/rtzreader-alpha/raw/names/RTZreader-0.1-msvc-wx32-10-tarball/versions/0.1.0+11.7fb23b8/RTZreader-0.1.0+11.7fb23b8_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> d76f9dad54a5f50059c36aec6b18bf585a055c12f50d1ab28e99d4ba78aab1e6 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/rtzreader-alpha/raw/names/RTZreader-0.1-msvc-wx32-10-tarball/versions/0.1.0+12.41aa562/RTZreader-0.1.0+12.41aa562_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> f4eed0ed9a21ae46e22b276e1ae7cef276bcb32cb2be415dd44304fea8bdd24f </tarball-checksum>
 </plugin>
