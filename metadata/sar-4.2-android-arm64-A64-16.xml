@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/sar_pi/1511 -->
+<!-- https://circleci.com/gh/Rasbats/sar_pi/1529 -->
 <plugin version="1">
   <name> sar </name>
-  <version> 4.2.2+1511.ac76184 </version>
+  <version> 4.2.3+1529.9cf086c </version>
   <release> 0 </release>
   <summary> Produces SAR search patterns as GPX files </summary>
 
@@ -19,6 +19,6 @@ be imported into OpenCPN to assist in performing searches.
   <target>android-arm64</target>
   <target-version>16</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.2-android-arm64-A64-16-tarball/versions/4.2.2+1511.ac76184/sar-4.2.2+1511.ac76184_android-arm64-16-arm64.tar.gz </tarball-url>
-  <tarball-checksum> 62276db13ede96fc9d82d4788c4bfa1b5775db177301fb4ea2e37df2dc66d49d </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.2-android-arm64-A64-16-tarball/versions/4.2.3+1529.9cf086c/sar-4.2.3+1529.9cf086c_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> a71527570818100a3939dacb80e2c4d0f76c048c73fd4d274718818de2472743 </tarball-checksum>
 </plugin>
