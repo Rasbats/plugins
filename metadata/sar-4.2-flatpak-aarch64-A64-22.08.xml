@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/sar_pi/1558 -->
+<!-- https://circleci.com/gh/Rasbats/sar_pi/1580 -->
 <plugin version="1">
   <name> sar </name>
-  <version> 4.2.5+1558.83582df </version>
+  <version> 4.2.5+1580.f1613a1 </version>
   <release> 0 </release>
   <summary> Produces SAR search patterns as GPX files </summary>
 
@@ -19,6 +19,6 @@ be imported into OpenCPN to assist in performing searches.
   <target>flatpak-aarch64</target>
   <target-version>22.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.2-flatpak-aarch64-A64-22.08-tarball/versions/4.2.5+1558.83582df/sar-4.2.5+1558.83582df_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> 4b2088907ed15e9af636a430036a5db501ad2f9754178540319fe46b9c43892b </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.2-flatpak-aarch64-A64-22.08-tarball/versions/4.2.5+1580.f1613a1/sar-4.2.5+1580.f1613a1_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> 12db251eccfe635b3198c6c106869b56c5432e51b773c8816cbcc2d9dce98dab </tarball-checksum>
 </plugin>
