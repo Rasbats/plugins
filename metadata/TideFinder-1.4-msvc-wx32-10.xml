@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://ci.appveyor.com/project/Rasbats/tidefinder-pi/builds/49944886 -->
+<plugin version="1">
+  <name> TideFinder </name>
+  <version> 1.4.3+163.9267e0f </version>
+  <release>  </release>
+  <summary> Predict future tides </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/TideFinder_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/TideFinder.html </info-url>
+
+  <description> Extends the tidal predictions of OpenCPN using a calendar to allow 
+easier future predictions.
+ </description>
+
+  <target>msvc-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/tidefinder-alpha/raw/names/TideFinder-1.4-msvc-wx32-10-tarball/versions/1.4.3+163.9267e0f/TideFinder-1.4.3+163.9267e0f_msvc-wx32-10-win32.tar.gz </tarball-url>
+  <tarball-checksum> a38613f17a5b9a3cc91dc0d9eb68a02a846e828788ca8587f5bdc1d71e0507cc </tarball-checksum>
+</plugin>
