@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/otcurrent-pi/builds/50752539 -->
+<!-- https://ci.appveyor.com/project/Rasbats/otcurrent-pi/builds/50752540 -->
 <plugin version="1">
   <name> otcurrent </name>
   <version> v4.3.0 </version>
@@ -20,5 +20,5 @@ OpenCPN.
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-prod/raw/names/otcurrent-v4.3.0-msvc-wx32-10-tarball/versions/v4.3.0/otcurrent-v4.3.0_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> b8982c316f8ff6b2fdf065319e5f897a21baa4792c07da596e21dd9bcf903b7e </tarball-checksum>
+  <tarball-checksum> bf0a3b5ffb7da002b398b4ec43f5931226588ecde9541f19bbff92f92cfc939e </tarball-checksum>
 </plugin>
