@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/logbookkonni-pi/builds/50800102 -->
+<!-- https://ci.appveyor.com/project/Rasbats/logbookkonni-pi/builds/50800129 -->
 <plugin version="1">
   <name> Logbook </name>
-  <version> 1.4.35.0+57.f31a781 </version>
+  <version> 1.4.35.0+58.9e50e08 </version>
   <release> 0 </release>
   <summary> Complex, feature-rich logbook </summary>
 
@@ -20,6 +20,6 @@ search LogbookKonni
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-msvc-wx32-10-tarball/versions/1.4.35.0+57.f31a781/Logbook-1.4.35.0+57.f31a781_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 357c283fba4dddb14e4a2c9f34143bda4c70b4ec8b40acfe4a42234245a1cc53 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/logbookkonni-alpha/raw/names/Logbook-1.4-msvc-wx32-10-tarball/versions/1.4.35.0+58.9e50e08/Logbook-1.4.35.0+58.9e50e08_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> ffbdb96635ad1711a087d61d98a2eb5702d149f59140e1ecafbc222bcb0c371f </tarball-checksum>
 </plugin>
