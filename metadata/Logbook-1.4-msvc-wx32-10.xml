@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/logbookkonni-pi/builds/50800129 -->
+<!-- https://ci.appveyor.com/project/Rasbats/logbookkonni-pi/builds/50800452 -->
 <plugin version="1">
   <name> Logbook </name>
-  <version> 1.4.35.0+58.9e50e08 </version>
+  <version> 1.4.35.0+59.5f5e929 </version>
   <release> 0 </release>
   <summary> Complex, feature-rich logbook </summary>
 
@@ -14,12 +14,12 @@
 
   <description>  Marine Logbook
 with flexible and customizable layout. Help on YouTube,
-search LogbookKonni
+search LogbookKonni.
  </description>
 
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/logbookkonni-alpha/raw/names/Logbook-1.4-msvc-wx32-10-tarball/versions/1.4.35.0+58.9e50e08/Logbook-1.4.35.0+58.9e50e08_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> ffbdb96635ad1711a087d61d98a2eb5702d149f59140e1ecafbc222bcb0c371f </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/logbookkonni-alpha/raw/names/Logbook-1.4-msvc-wx32-10-tarball/versions/1.4.35.0+59.5f5e929/Logbook-1.4.35.0+59.5f5e929_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 4d20d416f6c4a3da3ea032975d1be028dcb6d5f7c9e3a2d67162146ec296c6b5 </tarball-checksum>
 </plugin>
