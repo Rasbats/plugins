@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> otcurrent </name>
-  <version> 4.3.0+4498.dec9af9 </version>
+  <version> 4.3.0+4511.516a578 </version>
   <release> 0 </release>
   <summary> Predict future tidal currents </summary>
 
@@ -19,6 +19,6 @@ OpenCPN.
   <target>debian-x86_64</target>
   <target-version>12</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.3-debian-x86_64-12-tarball/versions/4.3.0+4498.dec9af9/otcurrent-4.3.0+4498.dec9af9_debian-x86_64-12-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 06107922717ad19d8f54cda582c6e8d5206970ef3dba46d7ae3e3f9fe3803a06 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.3-debian-x86_64-12-tarball/versions/4.3.0+4511.516a578/otcurrent-4.3.0+4511.516a578_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 2a3eecc1a04ae4583bf3299ecbe95311aa95b5963c0076dac5f382182b129700 </tarball-checksum>
 </plugin>
