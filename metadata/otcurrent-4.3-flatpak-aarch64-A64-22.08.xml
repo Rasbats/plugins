@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/otcurrent_pi/4508 -->
+<!-- https://circleci.com/gh/Rasbats/otcurrent_pi/4530 -->
 <plugin version="1">
   <name> otcurrent </name>
-  <version> 4.3.0+4508.516a578 </version>
+  <version> 4.3.0+4530.bbad07c </version>
   <release> 0 </release>
   <summary> Predict future tidal currents </summary>
 
@@ -19,6 +19,6 @@ OpenCPN.
   <target>flatpak-aarch64</target>
   <target-version>22.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.3-flatpak-aarch64-A64-22.08-tarball/versions/4.3.0+4508.516a578/otcurrent-4.3.0+4508.516a578_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> 2d46c3e68a49eb76c8ea37c6e12c91d68cef5a8e16be08fefabedaa97bd1b3bc </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.3-flatpak-aarch64-A64-22.08-tarball/versions/4.3.0+4530.bbad07c/otcurrent-4.3.0+4530.bbad07c_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> 396d5f88c79ad370d64fb57153b77451caee7c56a4d66fd68f42c2c2eadee4c0 </tarball-checksum>
 </plugin>
