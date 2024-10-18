@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/otcurrent_pi/4518 -->
+<!-- https://circleci.com/gh/Rasbats/otcurrent_pi/4535 -->
 <plugin version="1">
   <name> otcurrent </name>
-  <version> 4.3.0+4518.516a578 </version>
+  <version> 4.3.0+4535.bbad07c </version>
   <release> 0 </release>
   <summary> Predict future tidal currents </summary>
 
@@ -19,6 +19,6 @@ OpenCPN.
   <target>android-arm64</target>
   <target-version>16</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.3-android-arm64-A64-16-tarball/versions/4.3.0+4518.516a578/otcurrent-4.3.0+4518.516a578_android-arm64-16-arm64.tar.gz </tarball-url>
-  <tarball-checksum> 35ff80d46e5b72cbc03b8db3d8b76864da49dc6f473bd0304e79aad626485b19 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.3-android-arm64-A64-16-tarball/versions/4.3.0+4535.bbad07c/otcurrent-4.3.0+4535.bbad07c_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 0f35b71bc60b342c7e2d3d06ee7228ae8115554c066a3995e198ef16971230c0 </tarball-checksum>
 </plugin>
