@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/otcurrent_pi/4513 -->
+<!-- https://circleci.com/gh/Rasbats/otcurrent_pi/4529 -->
 <plugin version="1">
   <name> otcurrent </name>
-  <version> 4.3.0+4513.516a578 </version>
+  <version> 4.3.0+4529.bbad07c </version>
   <release> 0 </release>
   <summary> Predict future tidal currents </summary>
 
@@ -19,6 +19,6 @@ OpenCPN.
   <target>debian-x86_64</target>
   <target-version>11</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.3-debian-x86_64-11-tarball/versions/4.3.0+4513.516a578/otcurrent-4.3.0+4513.516a578_debian-x86_64-11-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 9ed4ec96e14f51766236388e795e13fce2bf73e065beabf5963107963ff6e5a7 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.3-debian-x86_64-11-tarball/versions/4.3.0+4529.bbad07c/otcurrent-4.3.0+4529.bbad07c_debian-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> fff5a429b378d0ab0161bdfcbe5b5686dbcc21c3815e8d874957d8d4645761eb </tarball-checksum>
 </plugin>
