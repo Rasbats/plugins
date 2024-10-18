@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> survey </name>
+  <version> 4.1.0+55.89dbcb3 </version>
+  <release> 0 </release>
+  <summary> Survey </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Pavel Kalian, Mike Rossiter </author>
+  <source> https://github.com/rasbats/survey_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/survey.html </info-url>
+
+  <description> Survey
+ </description>
+
+  <target>debian-armhf</target>
+  <target-version>11</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.1-debian-armhf-A32-11-tarball/versions/4.1.0+55.89dbcb3/survey-4.1.0+55.89dbcb3_debian-armhf-11-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 9c98c4b82dbc000c1bb8f015238931479aba33b0a114c7a8ecae009d50f58c9d </tarball-checksum>
+</plugin>
