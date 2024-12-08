@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> e_timer </name>
+  <version> 1.0.0+938.93380f1 </version>
+  <release> 0 </release>
+  <summary> Countdonw/Duration Timer </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/e_timer_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/e_timer.html </info-url>
+
+  <description> A simple timer.
+ </description>
+
+  <target>debian-armhf</target>
+  <target-version>12</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/e_timer-alpha/raw/names/e_timer-1.0-debian-armhf-A32-12-tarball/versions/1.0.0+938.93380f1/e_timer-1.0.0+938.93380f1_debian-armhf-12-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 5462609f3d5c5accc7d7c96db2952450bdb6c0c7b78580a52974d233d8ebf018 </tarball-checksum>
+</plugin>
