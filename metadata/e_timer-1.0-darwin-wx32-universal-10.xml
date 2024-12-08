@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/e_timer_pi/939 -->
+<plugin version="1">
+  <name> e_timer </name>
+  <version> 1.0.0+939.93380f1 </version>
+  <release> 0 </release>
+  <summary> Countdonw/Duration Timer </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/e_timer_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/e_timer.html </info-url>
+
+  <description> A simple timer.
+ </description>
+
+  <target>darwin-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>arm64;x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/e_timer-alpha/raw/names/e_timer-1.0-darwin-wx32-universal-10-tarball/versions/1.0.0+939.93380f1/e_timer-1.0.0+939.93380f1_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> c305a0ab4a44aadd83ca5f7d2ce90296e422099f8cd4c6b47c602d5dc1ae912f </tarball-checksum>
+</plugin>
