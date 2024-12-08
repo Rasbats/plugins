@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> e_timer </name>
+  <version> 1.0.0+929.93380f1 </version>
+  <release> 0 </release>
+  <summary> Countdonw/Duration Timer </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/e_timer_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/e_timer.html </info-url>
+
+  <description> A simple timer.
+ </description>
+
+  <target>debian-arm64</target>
+  <target-version>11</target-version>
+  <target-arch>arm64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/e_timer-alpha/raw/names/e_timer-1.0-debian-arm64-A64-11-tarball/versions/1.0.0+929.93380f1/e_timer-1.0.0+929.93380f1_debian-arm64-11-arm64.tar.gz </tarball-url>
+  <tarball-checksum> faebc8c50f54ac48a82b8708d5faa1797d0b03fb31faa33149f0fabcec613e33 </tarball-checksum>
+</plugin>
