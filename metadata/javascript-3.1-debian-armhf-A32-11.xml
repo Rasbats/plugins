@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> javascript </name>
-  <version> 3.1.0-beta+3156.af2c75b </version>
+  <version> 3.1.0-beta+3174.664fb36 </version>
   <release> 0 </release>
   <summary> Run JavaScripts in the plugin </summary>
 
@@ -20,6 +20,6 @@ See help menu ? for documentation details
   <target>debian-armhf</target>
   <target-version>11</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/javascript-alpha/raw/names/javascript-3.1-debian-armhf-A32-11-tarball/versions/3.1.0-beta+3156.af2c75b/javascript-3.1.0-beta+3156.af2c75b_debian-armhf-11-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 93277e24a2a05365f3456cdbcb716e9043d418b02392652b62f57a10a44f999c </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/javascript-alpha/raw/names/javascript-3.1-debian-armhf-A32-11-tarball/versions/3.1.0-beta+3174.664fb36/javascript-3.1.0-beta+3174.664fb36_debian-armhf-11-armhf.tar.gz </tarball-url>
+  <tarball-checksum> e4480b303be38ff8ae12f5aa9c1cabdb9c030903650817b673ff28eec601e260 </tarball-checksum>
 </plugin>
