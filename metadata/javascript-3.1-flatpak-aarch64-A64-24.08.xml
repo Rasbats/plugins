@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/JavaScript_pi/3138 -->
+<!-- https://circleci.com/gh/Rasbats/JavaScript_pi/3155 -->
 <plugin version="1">
   <name> javascript </name>
-  <version> 3.1.0-beta+3138.4f51196 </version>
+  <version> 3.1.0-beta+3155.af2c75b </version>
   <release> 0 </release>
   <summary> Run JavaScripts in the plugin </summary>
 
@@ -20,6 +20,6 @@ See help menu ? for documentation details
   <target>flatpak-aarch64</target>
   <target-version>24.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/javascript-alpha/raw/names/javascript-3.1-flatpak-aarch64-A64-24.08-tarball/versions/3.1.0-beta+3138.4f51196/javascript-3.1.0-beta+3138.4f51196_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> edd4734bae134446ee774254c93d699b5dd84d315bd033694a8bfce1a1f352ab </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/javascript-alpha/raw/names/javascript-3.1-flatpak-aarch64-A64-24.08-tarball/versions/3.1.0-beta+3155.af2c75b/javascript-3.1.0-beta+3155.af2c75b_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> 58680722ecfed5b38f4e43d6145cede968fa2c6bfded6c537a313546b55a5fec </tarball-checksum>
 </plugin>
