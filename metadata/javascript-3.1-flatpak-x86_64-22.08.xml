@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/JavaScript_pi/3140 -->
+<!-- https://circleci.com/gh/Rasbats/JavaScript_pi/3150 -->
 <plugin version="1">
   <name> javascript </name>
-  <version> 3.1.0-beta+3140.4f51196 </version>
+  <version> 3.1.0-beta+3150.af2c75b </version>
   <release> 0 </release>
   <summary> Run JavaScripts in the plugin </summary>
 
@@ -20,6 +20,6 @@ See help menu ? for documentation details
   <target>flatpak-x86_64</target>
   <target-version>22.08</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/javascript-alpha/raw/names/javascript-3.1-flatpak-x86_64-22.08-tarball/versions/3.1.0-beta+3140.4f51196/javascript-3.1.0-beta+3140.4f51196_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 3f9dba51d881b07babc2cbc01213296ee59011ddff0cbd8db6604e431fa294e7 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/javascript-alpha/raw/names/javascript-3.1-flatpak-x86_64-22.08-tarball/versions/3.1.0-beta+3150.af2c75b/javascript-3.1.0-beta+3150.af2c75b_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 23cda116eee72282cccab1625187ae1f21bc2a19cf4d4aa0f623741fe8512ae2 </tarball-checksum>
 </plugin>
