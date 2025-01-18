@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/canadiantides-pi/builds/51348414 -->
+<!-- https://ci.appveyor.com/project/Rasbats/canadiantides-pi/builds/51348415 -->
 <plugin version="1">
   <name> CanadianTides </name>
   <version> v0.8.0 </version>
@@ -19,5 +19,5 @@
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/canadiantides-prod/raw/names/CanadianTides-v0.8.0-msvc-wx32-10-tarball/versions/v0.8.0/CanadianTides-v0.8.0_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> b6104d7b254bb834cf50bea80ce6179b8b072e658236be5ba0134c635f9d8781 </tarball-checksum>
+  <tarball-checksum> 2bdadff1c8eed6679e450063af85e61242fae6ca566c49e74443d169dd144b00 </tarball-checksum>
 </plugin>
