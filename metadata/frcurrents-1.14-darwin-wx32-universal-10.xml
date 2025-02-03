@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/1795 -->
+<plugin version="1">
+  <name> frcurrents </name>
+  <version> 1.14.0+1795.16b6aac </version>
+  <release> 0 </release>
+  <summary> French Tidal Currents </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/frcurrents_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/frcurrents.html </info-url>
+
+  <description> Shows French Tidal Currents.
+ </description>
+
+  <target>darwin-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>arm64;x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.14-darwin-wx32-universal-10-tarball/versions/1.14.0+1795.16b6aac/frcurrents-1.14.0+1795.16b6aac_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 98e5be930cb2a85799bcb266acb98ee1da6018b9a85e32291d14e0a0c7ff57d3 </tarball-checksum>
+</plugin>
