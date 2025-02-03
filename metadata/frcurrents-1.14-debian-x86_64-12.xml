@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> frcurrents </name>
+  <version> 1.14.0+1799.16b6aac </version>
+  <release> 0 </release>
+  <summary> French Tidal Currents </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/frcurrents_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/frcurrents.html </info-url>
+
+  <description> Shows French Tidal Currents.
+ </description>
+
+  <target>debian-x86_64</target>
+  <target-version>12</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.14-debian-x86_64-12-tarball/versions/1.14.0+1799.16b6aac/frcurrents-1.14.0+1799.16b6aac_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 4f41cbd1463cc431be04be8b9b9a135067801cf8628ccf25c9aa19042001352b </tarball-checksum>
+</plugin>
