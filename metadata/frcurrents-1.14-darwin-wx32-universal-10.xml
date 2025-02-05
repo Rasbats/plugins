@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/2113 -->
+<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/2134 -->
 <plugin version="1">
   <name> frcurrents </name>
-  <version> 1.14.0+2113.b80e84f </version>
+  <version> 1.14.0+2134.873535b </version>
   <release> 0 </release>
   <summary> French Tidal Currents </summary>
 
@@ -18,6 +18,6 @@
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.14-darwin-wx32-universal-10-tarball/versions/1.14.0+2113.b80e84f/frcurrents-1.14.0+2113.b80e84f_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 8dd6af28155fbe205a592c6c3bbda82deb0de9780f6c3a02d5592a066a41a822 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.14-darwin-wx32-universal-10-tarball/versions/1.14.0+2134.873535b/frcurrents-1.14.0+2134.873535b_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 60337eb21f49faa849ecb04a6a9c7b259190ce0f3563317285cfac3e8f75a35e </tarball-checksum>
 </plugin>
