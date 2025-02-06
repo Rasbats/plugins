@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/2164 -->
+<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/2183 -->
 <plugin version="1">
   <name> frcurrents </name>
-  <version> 1.14.0+2164.6210e8f </version>
+  <version> 1.14.0+2183.0d813ca </version>
   <release> 0 </release>
   <summary> French Tidal Currents </summary>
 
@@ -18,6 +18,6 @@
   <target>flatpak-aarch64</target>
   <target-version>24.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.14-flatpak-aarch64-A64-24.08-tarball/versions/1.14.0+2164.6210e8f/frcurrents-1.14.0+2164.6210e8f_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> 80e2e25a06ee953598ffc7696247d08cd924d93f0d9eff9b09013b5485b4b7bc </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.14-flatpak-aarch64-A64-24.08-tarball/versions/1.14.0+2183.0d813ca/frcurrents-1.14.0+2183.0d813ca_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> 7f97dc8ed7dd7386c21efb7f83f39365704d3695e5bed58120ff7eed629ba01f </tarball-checksum>
 </plugin>
