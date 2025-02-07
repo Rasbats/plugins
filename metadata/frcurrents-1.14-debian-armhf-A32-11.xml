@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> frcurrents </name>
-  <version> 1.14.0+2293.abdaba7 </version>
+  <version> 1.14.0+2312.01ee6d2 </version>
   <release> 0 </release>
   <summary> French Tidal Currents </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-armhf</target>
   <target-version>11</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.14-debian-armhf-A32-11-tarball/versions/1.14.0+2293.abdaba7/frcurrents-1.14.0+2293.abdaba7_debian-armhf-11-armhf.tar.gz </tarball-url>
-  <tarball-checksum> c330a922a4a73f843474ce9572b48876a69938e946553ac834bd4113ddc47a6b </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.14-debian-armhf-A32-11-tarball/versions/1.14.0+2312.01ee6d2/frcurrents-1.14.0+2312.01ee6d2_debian-armhf-11-armhf.tar.gz </tarball-url>
+  <tarball-checksum> e1bbd2b5ce9600e245f4462bb68e265e2a3b3d4d09931056f93d3ab2c5d2f5fc </tarball-checksum>
 </plugin>
