@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/frcurrents-pi/builds/51493301 -->
+<!-- https://ci.appveyor.com/project/Rasbats/frcurrents-pi/builds/51500949 -->
 <plugin version="1">
   <name> frcurrents </name>
-  <version> 1.15.0+250.26b0eee </version>
+  <version> 1.15.0+251.26b0eee </version>
   <release> 0 </release>
   <summary> French Tidal Currents </summary>
 
@@ -18,6 +18,6 @@
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.15-msvc-wx32-10-tarball/versions/1.15.0+250.26b0eee/frcurrents-1.15.0+250.26b0eee_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 63ae3d744f9380ed82f526e6db435a289409941e11d06d61e9263d90385c9cf6 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.15-msvc-wx32-10-tarball/versions/1.15.0+251.26b0eee/frcurrents-1.15.0+251.26b0eee_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 09005cc771d907c035f7c2e2f3e88bb813564afdd0aee225440a33a5d3ea93c7 </tarball-checksum>
 </plugin>
