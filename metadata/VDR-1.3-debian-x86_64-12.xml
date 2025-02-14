@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> VDR </name>
-  <version> 1.3.61.0+965.b302dc1 </version>
+  <version> 1.3.61.0+980.504ab61 </version>
   <release> 0 </release>
   <summary> Voyage Data Recorder </summary>
 
@@ -19,6 +19,6 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test p
   <target>debian-x86_64</target>
   <target-version>12</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.3-debian-x86_64-12-tarball/versions/1.3.61.0+965.b302dc1/VDR-1.3.61.0+965.b302dc1_debian-x86_64-12-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 70e80a9fe444eb939d3786e9c812b64cd85c4d37848b3a423a456478b43d4fc9 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.3-debian-x86_64-12-tarball/versions/1.3.61.0+980.504ab61/VDR-1.3.61.0+980.504ab61_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 82d9f60ff45d06bf47fbcd30017f814c9d74f6fc03420763ffb09b15db5b9976 </tarball-checksum>
 </plugin>
