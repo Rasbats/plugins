@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/vdr_pi/1070 -->
+<!-- https://circleci.com/gh/Rasbats/vdr_pi/1088 -->
 <plugin version="1">
   <name> VDR </name>
-  <version> 1.4.0.0+1070.4359acd </version>
+  <version> 1.4.0.0+1088.fc77b7a </version>
   <release> 0 </release>
   <summary> Voyage Data Recorder </summary>
 
@@ -19,6 +19,6 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test p
   <target>android-armhf</target>
   <target-version>16</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.4-android-armhf-A32-16-tarball/versions/1.4.0.0+1070.4359acd/VDR-1.4.0.0+1070.4359acd_android-armhf-16-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 296249fc921f2cb6475265fe900ec9ffd4e6c0b40544e440e1c16e6e47357aec </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.4-android-armhf-A32-16-tarball/versions/1.4.0.0+1088.fc77b7a/VDR-1.4.0.0+1088.fc77b7a_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 29efde37db59558b37602c74b616438ea1a1596858d8555437e248f67d01acb7 </tarball-checksum>
 </plugin>
