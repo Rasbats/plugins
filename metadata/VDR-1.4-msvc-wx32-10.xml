@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/vdr-pi/builds/51522609 -->
+<!-- https://ci.appveyor.com/project/Rasbats/vdr-pi/builds/51526151 -->
 <plugin version="1">
   <name> VDR </name>
-  <version> 1.4.0.0+80.fc77b7a </version>
+  <version> 1.4.0.0+81.cd8f33d </version>
   <release> 0 </release>
   <summary> Voyage Data Recorder </summary>
 
@@ -19,6 +19,6 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test p
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.4-msvc-wx32-10-tarball/versions/1.4.0.0+80.fc77b7a/VDR-1.4.0.0+80.fc77b7a_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 504147029dbcd3be9ebdb0b4abf7b9f6801ada60433655351c626b4896feb889 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/vdr-alpha/raw/names/VDR-1.4-msvc-wx32-10-tarball/versions/1.4.0.0+81.cd8f33d/VDR-1.4.0.0+81.cd8f33d_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 2c39b3420cef4b8c2eb12e16bf97b0269ba376e954943e81762b7155dba21ea0 </tarball-checksum>
 </plugin>
