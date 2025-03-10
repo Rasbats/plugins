@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/2854 -->
+<plugin version="1">
+  <name> frcurrents </name>
+  <version> 1.15.1+2854.fec0201 </version>
+  <release> 0 </release>
+  <summary> French Tidal Currents </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/frcurrents_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/frcurrents.html </info-url>
+
+  <description> Shows French Tidal Currents.
+ </description>
+
+  <target>flatpak-aarch64</target>
+  <target-version>22.08</target-version>
+  <target-arch>aarch64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.15-flatpak-aarch64-A64-22.08-tarball/versions/1.15.1+2854.fec0201/frcurrents-1.15.1+2854.fec0201_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> a8c6c28496401eae0fb7aeefa68d780a10a655102a30ba37cee7fae31f33ed2c </tarball-checksum>
+</plugin>
