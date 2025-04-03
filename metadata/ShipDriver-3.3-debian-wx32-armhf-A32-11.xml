@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.3.7+10685.ec3489a </version>
+  <version> 3.3.7+10726.c950b5b </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>debian-wx32-armhf</target>
   <target-version>11</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.3-debian-wx32-armhf-A32-11-tarball/versions/3.3.7+10685.ec3489a/ShipDriver-3.3.7+10685.ec3489a_debian-wx32-armhf-11-armhf.tar.gz </tarball-url>
-  <tarball-checksum> d241c4f82621689e71a14383b75750cbc9bd2ec588304303d2e7480d1e9ae26f </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.3-debian-wx32-armhf-A32-11-tarball/versions/3.3.7+10726.c950b5b/ShipDriver-3.3.7+10726.c950b5b_debian-wx32-armhf-11-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 51ec0a8df8ea936c84f8d54d3e95955a3189382bf8817b84ac391ff5254b6a11 </tarball-checksum>
 </plugin>
