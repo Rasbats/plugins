@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/tradnav_pi/648 -->
+<plugin version="1">
+  <name> TradNav </name>
+  <version> 0.2.0+648.af11faa </version>
+  <release> 0 </release>
+  <summary> Traditional nav </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/tradnav_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/tradnav.html </info-url>
+
+  <description> Traditional Navigation.
+ </description>
+
+  <target>debian-x86_64</target>
+  <target-version>11</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-debian-x86_64-11-tarball/versions/0.2.0+648.af11faa/TradNav-0.2.0+648.af11faa_debian-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 938c895e52ca2fb4056e04da17b0bc59530e39422471516f12113685ed852981 </tarball-checksum>
+</plugin>
