@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/tradnav_pi/624 -->
+<!-- https://circleci.com/gh/Rasbats/tradnav_pi/640 -->
 <plugin version="1">
   <name> TradNav </name>
-  <version> 0.2.0+624.a7c2498 </version>
+  <version> 0.2.0+640.af11faa </version>
   <release> 0 </release>
   <summary> Traditional nav </summary>
 
-  <api-version> 1.19 </api-version>
+  <api-version> 1.18 </api-version>
   <open-source> yes </open-source>
   <author> Mike Rossiter </author>
   <source> https://github.com/Rasbats/tradnav_pi </source>
@@ -18,6 +18,6 @@
   <target>debian-wx32-x86_64</target>
   <target-version>11</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-debian-wx32-x86_64-11-tarball/versions/0.2.0+624.a7c2498/TradNav-0.2.0+624.a7c2498_debian-wx32-x86_64-11-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 4c6737e0bbe0590b155a68ca05862cb419bf8533dfcb46b6964a8dc7ec1fa6b5 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-debian-wx32-x86_64-11-tarball/versions/0.2.0+640.af11faa/TradNav-0.2.0+640.af11faa_debian-wx32-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> d51a50cb4f157460bfaeda074c11137ef41b7ace2ecbaa55d731ac488384b118 </tarball-checksum>
 </plugin>
