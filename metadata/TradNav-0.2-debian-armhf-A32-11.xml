@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> TradNav </name>
+  <version> 0.2.0+632.a7c2498 </version>
+  <release> 0 </release>
+  <summary> Traditional nav </summary>
+
+  <api-version> 1.19 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/tradnav_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/tradnav.html </info-url>
+
+  <description> Traditional Navigation.
+ </description>
+
+  <target>debian-armhf</target>
+  <target-version>11</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-debian-armhf-A32-11-tarball/versions/0.2.0+632.a7c2498/TradNav-0.2.0+632.a7c2498_debian-armhf-11-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 8158d2d175ed5069986522d43eec66db508db1b7d5c988c3d38f0980ea291cfa </tarball-checksum>
+</plugin>
