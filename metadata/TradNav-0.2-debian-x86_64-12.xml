@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> TradNav </name>
-  <version> 0.2.0+643.af11faa </version>
+  <version> 0.2.0+656.4bf9e98 </version>
   <release> 0 </release>
   <summary> Traditional nav </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-x86_64</target>
   <target-version>12</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-debian-x86_64-12-tarball/versions/0.2.0+643.af11faa/TradNav-0.2.0+643.af11faa_debian-x86_64-12-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 7817dee79b87af5b6ea467975689e52fae955172795a42c0756540777f2290a3 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-debian-x86_64-12-tarball/versions/0.2.0+656.4bf9e98/TradNav-0.2.0+656.4bf9e98_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 21c55954a4e19bdaf49de6ad9ef27635a891588080dc078b1d08fae16c596c21 </tarball-checksum>
 </plugin>
