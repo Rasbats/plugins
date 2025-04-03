@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/tradnav_pi/635 -->
+<!-- https://circleci.com/gh/Rasbats/tradnav_pi/644 -->
 <plugin version="1">
   <name> TradNav </name>
-  <version> 0.2.0+635.a7c2498 </version>
+  <version> 0.2.0+644.af11faa </version>
   <release> 0 </release>
   <summary> Traditional nav </summary>
 
-  <api-version> 1.19 </api-version>
+  <api-version> 1.18 </api-version>
   <open-source> yes </open-source>
   <author> Mike Rossiter </author>
   <source> https://github.com/Rasbats/tradnav_pi </source>
@@ -18,6 +18,6 @@
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-darwin-wx32-universal-10-tarball/versions/0.2.0+635.a7c2498/TradNav-0.2.0+635.a7c2498_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 73cfbf8d6b5511a4ec021f8be75288290532f4057ab4a4929275d740ee30d7dd </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-darwin-wx32-universal-10-tarball/versions/0.2.0+644.af11faa/TradNav-0.2.0+644.af11faa_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 3102d646f0b6aa8db2c1e70224f0a65d2893d3017de8dc08fb952d00cef8739c </tarball-checksum>
 </plugin>
