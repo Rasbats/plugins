@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/tradnav_pi/647 -->
+<!-- https://circleci.com/gh/Rasbats/tradnav_pi/668 -->
 <plugin version="1">
   <name> TradNav </name>
-  <version> 0.2.0+647.af11faa </version>
+  <version> 0.2.0+668.4bf9e98 </version>
   <release> 0 </release>
   <summary> Traditional nav </summary>
 
@@ -18,6 +18,6 @@
   <target>flatpak-x86_64</target>
   <target-version>24.08</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-flatpak-x86_64-24.08-tarball/versions/0.2.0+647.af11faa/TradNav-0.2.0+647.af11faa_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> bfb1b39d106b7f9278a02c60e37829c52b6d416cbaac535ccacba4677cc27ff9 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-flatpak-x86_64-24.08-tarball/versions/0.2.0+668.4bf9e98/TradNav-0.2.0+668.4bf9e98_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> e0231f22c94da4a62ddc9aca0f11f0574dc785b950a412e8d502c5bdd4ae532a </tarball-checksum>
 </plugin>
