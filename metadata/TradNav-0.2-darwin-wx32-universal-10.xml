@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/tradnav_pi/635 -->
+<plugin version="1">
+  <name> TradNav </name>
+  <version> 0.2.0+635.a7c2498 </version>
+  <release> 0 </release>
+  <summary> Traditional nav </summary>
+
+  <api-version> 1.19 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/tradnav_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/tradnav.html </info-url>
+
+  <description> Traditional Navigation.
+ </description>
+
+  <target>darwin-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>arm64;x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-darwin-wx32-universal-10-tarball/versions/0.2.0+635.a7c2498/TradNav-0.2.0+635.a7c2498_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 73cfbf8d6b5511a4ec021f8be75288290532f4057ab4a4929275d740ee30d7dd </tarball-checksum>
+</plugin>
