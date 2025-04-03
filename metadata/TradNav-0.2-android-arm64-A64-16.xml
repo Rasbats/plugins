@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/tradnav_pi/666 -->
+<plugin version="1">
+  <name> TradNav </name>
+  <version> 0.2.0+666.4bf9e98 </version>
+  <release> 0 </release>
+  <summary> Traditional nav </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/tradnav_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/tradnav.html </info-url>
+
+  <description> Traditional Navigation.
+ </description>
+
+  <target>android-arm64</target>
+  <target-version>16</target-version>
+  <target-arch>arm64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-android-arm64-A64-16-tarball/versions/0.2.0+666.4bf9e98/TradNav-0.2.0+666.4bf9e98_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 88470d07e1d576dcc76bef8a6bf958dbff3828fe51de6cece867ff27c782c36a </tarball-checksum>
+</plugin>
