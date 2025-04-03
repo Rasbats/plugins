@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> TradNav </name>
-  <version> 0.2.0+641.af11faa </version>
+  <version> 0.2.0+658.4bf9e98 </version>
   <release> 0 </release>
   <summary> Traditional nav </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-armhf</target>
   <target-version>12</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-debian-armhf-A32-12-tarball/versions/0.2.0+641.af11faa/TradNav-0.2.0+641.af11faa_debian-armhf-12-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 68c685cf3d52e665de4e797ea670ca49043abeacdb5ed912d2bad356fa3db169 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/tradnav-alpha/raw/names/TradNav-0.2-debian-armhf-A32-12-tarball/versions/0.2.0+658.4bf9e98/TradNav-0.2.0+658.4bf9e98_debian-armhf-12-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 05a1ee6ac91d76e102736ac9f81f125a386a86e9cb8f46536eed26d67f88861c </tarball-checksum>
 </plugin>
