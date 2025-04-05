@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> frcurrents </name>
+  <version> 1.15.0+3132.1f36b65 </version>
+  <release> 0 </release>
+  <summary> French Tidal Currents </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/frcurrents_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/frcurrents.html </info-url>
+
+  <description> Shows French Tidal Currents.
+ </description>
+
+  <target>debian-wx32-armhf</target>
+  <target-version>11</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.15-debian-wx32-armhf-A32-11-tarball/versions/1.15.0+3132.1f36b65/frcurrents-1.15.0+3132.1f36b65_debian-wx32-armhf-11-armhf.tar.gz </tarball-url>
+  <tarball-checksum> b10db17dc24bc616f5e11e2e9a8696904f1af79de92d6d19c4c2864d293e2410 </tarball-checksum>
+</plugin>
