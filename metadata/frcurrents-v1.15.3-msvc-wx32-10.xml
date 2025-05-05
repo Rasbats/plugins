@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/frcurrents-pi/builds/51997876 -->
+<!-- https://ci.appveyor.com/project/Rasbats/frcurrents-pi/builds/51997878 -->
 <plugin version="1">
   <name> frcurrents </name>
   <version> v1.15.3 </version>
@@ -19,5 +19,5 @@
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-prod/raw/names/frcurrents-v1.15.3-msvc-wx32-10-tarball/versions/v1.15.3/frcurrents-v1.15.3_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> c6aab50598cef88ffba9f5b4c2a9ddba021409eb794b321b9b63e3735e68f99e </tarball-checksum>
+  <tarball-checksum> 6b4a911feadf63545704b9ed185b475d96e84d9ad7003a1bb8ec53b6a6873699 </tarball-checksum>
 </plugin>
