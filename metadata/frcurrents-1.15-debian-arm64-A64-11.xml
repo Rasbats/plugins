@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> frcurrents </name>
-  <version> 1.15.4+3528.40e2f5e </version>
+  <version> 1.15.4+3550.40e2f5e </version>
   <release> 0 </release>
   <summary> French Tidal Currents </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-arm64</target>
   <target-version>11</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.15-debian-arm64-A64-11-tarball/versions/1.15.4+3528.40e2f5e/frcurrents-1.15.4+3528.40e2f5e_debian-arm64-11-arm64.tar.gz </tarball-url>
-  <tarball-checksum> 4c3640a8c3de7acbca6a73da4c2c1eaa7ca79e13b3ccbda476d97a7bc96633d9 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.15-debian-arm64-A64-11-tarball/versions/1.15.4+3550.40e2f5e/frcurrents-1.15.4+3550.40e2f5e_debian-arm64-11-arm64.tar.gz </tarball-url>
+  <tarball-checksum> d6a8b15fe764e4451c8fdf3e8758787678800babb9b646369c7b0dc917018b4c </tarball-checksum>
 </plugin>
