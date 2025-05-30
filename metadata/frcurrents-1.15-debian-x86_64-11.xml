@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/3551 -->
+<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/3571 -->
 <plugin version="1">
   <name> frcurrents </name>
-  <version> 1.15.4+3551.40e2f5e </version>
+  <version> 1.15.5+3571.89306e4 </version>
   <release> 0 </release>
   <summary> French Tidal Currents </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-x86_64</target>
   <target-version>11</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.15-debian-x86_64-11-tarball/versions/1.15.4+3551.40e2f5e/frcurrents-1.15.4+3551.40e2f5e_debian-x86_64-11-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 8425f94818107873e6a70abeeb6ff82419d6d1f1f0e46fabc3f6ae823cc69ddb </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.15-debian-x86_64-11-tarball/versions/1.15.5+3571.89306e4/frcurrents-1.15.5+3571.89306e4_debian-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 04eb1da83676e2876e3807b9acec58dd38551f5e210f09399366ac9174efb5bd </tarball-checksum>
 </plugin>
