@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/3739 -->
+<plugin version="1">
+  <name> frcurrents </name>
+  <version> 1.16.4+3739.013b513 </version>
+  <release> 0 </release>
+  <summary> French Tidal Currents </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/frcurrents_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/frcurrents.html </info-url>
+
+  <description> Shows French Tidal Currents.
+ </description>
+
+  <target>android-armhf</target>
+  <target-version>16</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.16-android-armhf-A32-16-tarball/versions/1.16.4+3739.013b513/frcurrents-1.16.4+3739.013b513_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 00bc8c27fde1a594a8cad15de19a2fc24426299c6fa45720427e1afe3540da74 </tarball-checksum>
+</plugin>
