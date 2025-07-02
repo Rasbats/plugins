@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/uktides-pi/builds/52333637 -->
+<!-- https://ci.appveyor.com/project/Rasbats/uktides-pi/builds/52333659 -->
 <plugin version="1">
   <name> UKTides </name>
-  <version> 2.5.0+549.cd77edc </version>
+  <version> 2.5.0+550.7b95798 </version>
   <release> 0 </release>
   <summary> Show UK tidal heights for LW/HW </summary>
 
@@ -18,6 +18,6 @@
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/uktides-alpha/raw/names/UKTides-2.5-msvc-wx32-10-tarball/versions/2.5.0+549.cd77edc/UKTides-2.5.0+549.cd77edc_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> eec29ed0c48c2fabf57623957dca61ef78c859d1eb547f0e38bdc7585bb6ca54 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/uktides-alpha/raw/names/UKTides-2.5-msvc-wx32-10-tarball/versions/2.5.0+550.7b95798/UKTides-2.5.0+550.7b95798_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 70bb13edfcdff58f40785564f57feaaa1f80a06b19e59d33f3f1d21f8cf411ad </tarball-checksum>
 </plugin>
