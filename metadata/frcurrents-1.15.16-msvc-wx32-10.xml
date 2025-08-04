@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://ci.appveyor.com/project/Rasbats/frcurrents-pi/builds/52510237 -->
+<plugin version="1">
+  <name> frcurrents </name>
+  <version> 1.15.16 </version>
+  <release> 0 </release>
+  <summary> French Tidal Currents </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/frcurrents_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/frcurrents.html </info-url>
+
+  <description> French Tidal Currents from SHOM.
+ </description>
+
+  <target>msvc-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>x86</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-prod/raw/names/frcurrents-1.15.16-msvc-wx32-10-tarball/versions/1.15.16/frcurrents-1.15.16_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 300f1046a24ebf86cb9cf50dd61a203a4a86ef3ea64ef1075cd67d0cb3861d61 </tarball-checksum>
+</plugin>
