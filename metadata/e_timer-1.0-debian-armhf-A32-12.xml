@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> e_timer </name>
-  <version> 1.0.0+943.93380f1 </version>
+  <version> 1.0.0+966.f7a8a1a </version>
   <release> 0 </release>
   <summary> Countdonw/Duration Timer </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-armhf</target>
   <target-version>12</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/e_timer-alpha/raw/names/e_timer-1.0-debian-armhf-A32-12-tarball/versions/1.0.0+943.93380f1/e_timer-1.0.0+943.93380f1_debian-armhf-12-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 48c0b3389018e0d83a5ece1e0bbe6bcd3d76740c58f84f1a2b872d3c91a22366 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/e_timer-alpha/raw/names/e_timer-1.0-debian-armhf-A32-12-tarball/versions/1.0.0+966.f7a8a1a/e_timer-1.0.0+966.f7a8a1a_debian-armhf-12-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 4c49f748c5c88f63ab1ab225c64742d66b01484a945a8fd085c3fbd78431ac83 </tarball-checksum>
 </plugin>
