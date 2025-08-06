@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/e_timer_pi/975 -->
+<plugin version="1">
+  <name> e_timer </name>
+  <version> 1.0.0+975.9354cb0 </version>
+  <release> 0 </release>
+  <summary> Countdonw/Duration Timer </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/e_timer_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/e_timer.html </info-url>
+
+  <description> A simple timer.
+ </description>
+
+  <target>android-arm64</target>
+  <target-version>16</target-version>
+  <target-arch>arm64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/e_timer-alpha/raw/names/e_timer-1.0-android-arm64-A64-16-tarball/versions/1.0.0+975.9354cb0/e_timer-1.0.0+975.9354cb0_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> e6bdc8e339f7e94403358a92a622317d5cf070d035ef957db9e82ca28c498746 </tarball-checksum>
+</plugin>
