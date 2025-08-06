@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/e_timer_pi/946 -->
+<plugin version="1">
+  <name> e_timer </name>
+  <version> 1.0.0+946.93380f1 </version>
+  <release> 0 </release>
+  <summary> Countdonw/Duration Timer </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/e_timer_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/e_timer.html </info-url>
+
+  <description> A simple timer.
+ </description>
+
+  <target>flatpak-aarch64</target>
+  <target-version>24.08</target-version>
+  <target-arch>aarch64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/mike-rossiter/e_timer-alpha/raw/names/e_timer-1.0-flatpak-aarch64-A64-24.08-tarball/versions/1.0.0+946.93380f1/e_timer-1.0.0+946.93380f1_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> 711571a9b8b9cd6e0c240afd472eaa3a8905f9c92718e03d3db7f344591ba904 </tarball-checksum>
+</plugin>
