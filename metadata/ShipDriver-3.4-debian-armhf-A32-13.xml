@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> ShipDriver </name>
+  <version> 3.4.6+11112.2d648b8 </version>
+  <release> 0 </release>
+  <summary> Simulate ship movements </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/shipdriver_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/shipdriver.html </info-url>
+
+  <description> Simulates navigation of a vessel. Using the sail option and a current
+grib file for wind data, simulates how a sailing vessel might react in
+those conditions. Using 'Preferences' the simulator is able to record AIS
+data from itself. This can be replayed to simulate collision situations.
+ </description>
+
+  <target>debian-armhf</target>
+  <target-version>13</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.4-debian-armhf-A32-13-tarball/versions/3.4.6+11112.2d648b8/ShipDriver-3.4.6+11112.2d648b8_debian-armhf-13-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 0cd89b0c7025d5be0da2214f6646d329953cf2d890bb8461a17c8542ebc59452 </tarball-checksum>
+</plugin>
