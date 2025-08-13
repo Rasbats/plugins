@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/11108 -->
+<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/11122 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.4.6+11108.7eb6af3 </version>
+  <version> 3.4.6+11122.2d648b8 </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>flatpak-x86_64</target>
   <target-version>22.08</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.4-flatpak-x86_64-22.08-tarball/versions/3.4.6+11108.7eb6af3/ShipDriver-3.4.6+11108.7eb6af3_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 0519924e66c31629c4b23917c1bbd4f26c384baaad61ac4ef9597f237cf9a0a0 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.4-flatpak-x86_64-22.08-tarball/versions/3.4.6+11122.2d648b8/ShipDriver-3.4.6+11122.2d648b8_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> a6dccafb7f7f68a7b824de0d7fee3b359ae1e18a2bdc4458ecd8c7871a8826e0 </tarball-checksum>
 </plugin>
