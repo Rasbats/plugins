@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> otidalplan </name>
+  <version> 2.2.0+710.ab80d6f </version>
+  <release> 0 </release>
+  <summary> EP positions on a route </summary>
+
+  <api-version> 1.20 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/otidalplan_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/otidalplan.html </info-url>
+
+  <description> Calculates Estimated Positions using tidal harmonics.
+ </description>
+
+  <target>debian-x86_64</target>
+  <target-version>12</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otidalplan-alpha/raw/names/otidalplan-2.2-debian-x86_64-12-tarball/versions/2.2.0+710.ab80d6f/otidalplan-2.2.0+710.ab80d6f_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 86162ef13c1b97032ceb61a9dec7d3397ba0e9e591e8e13d77706bfd6e3f283b </tarball-checksum>
+</plugin>
