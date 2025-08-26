@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/CanadianTides_pi/754 -->
+<plugin version="1">
+  <name> CanadianTides </name>
+  <version> 0.9.0+754.b34cb5c </version>
+  <release> 0 </release>
+  <summary> Show Canadian tidal heights for LW/HW </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/CanadianTides_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/CanadianTides.html </info-url>
+
+  <description> Show Canadian Tides (HW/LW) at over 600 ports.
+ </description>
+
+  <target>flatpak-x86_64</target>
+  <target-version>22.08</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/canadiantides-alpha/raw/names/CanadianTides-0.9-flatpak-x86_64-22.08-tarball/versions/0.9.0+754.b34cb5c/CanadianTides-0.9.0+754.b34cb5c_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 19a0900689afd3fa417b2abb2ec15d5ca9e123d0691c347f0ce65815741d8366 </tarball-checksum>
+</plugin>
