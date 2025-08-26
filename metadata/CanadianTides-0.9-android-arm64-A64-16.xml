@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/CanadianTides_pi/748 -->
+<!-- https://circleci.com/gh/Rasbats/CanadianTides_pi/756 -->
 <plugin version="1">
   <name> CanadianTides </name>
-  <version> 0.9.0+748.b34cb5c </version>
+  <version> 0.9.0+756.3e292db </version>
   <release> 0 </release>
   <summary> Show Canadian tidal heights for LW/HW </summary>
 
@@ -18,6 +18,6 @@
   <target>android-arm64</target>
   <target-version>16</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/canadiantides-alpha/raw/names/CanadianTides-0.9-android-arm64-A64-16-tarball/versions/0.9.0+748.b34cb5c/CanadianTides-0.9.0+748.b34cb5c_android-arm64-16-arm64.tar.gz </tarball-url>
-  <tarball-checksum> 11b7ed3307ad81a8cbb69db0ff84aeb87f9678e8dc86daf7aeec7b84304d6c79 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/canadiantides-alpha/raw/names/CanadianTides-0.9-android-arm64-A64-16-tarball/versions/0.9.0+756.3e292db/CanadianTides-0.9.0+756.3e292db_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> fa03f66d8218d0300ed69dc1e65514e523914614a34b2c2bf20a3c89a254e930 </tarball-checksum>
 </plugin>
