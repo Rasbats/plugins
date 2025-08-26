@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/CanadianTides_pi/743 -->
+<!-- https://circleci.com/gh/Rasbats/CanadianTides_pi/759 -->
 <plugin version="1">
   <name> CanadianTides </name>
-  <version> 0.9.0+743.b34cb5c </version>
+  <version> 0.9.0+759.3e292db </version>
   <release> 0 </release>
   <summary> Show Canadian tidal heights for LW/HW </summary>
 
@@ -18,6 +18,6 @@
   <target>flatpak-aarch64</target>
   <target-version>24.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/canadiantides-alpha/raw/names/CanadianTides-0.9-flatpak-aarch64-A64-24.08-tarball/versions/0.9.0+743.b34cb5c/CanadianTides-0.9.0+743.b34cb5c_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> dea2a1e07c8b6bc8b47e626b562b438c9a1e9e5e01cf8c20850aeead8e2e76b2 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/canadiantides-alpha/raw/names/CanadianTides-0.9-flatpak-aarch64-A64-24.08-tarball/versions/0.9.0+759.3e292db/CanadianTides-0.9.0+759.3e292db_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> fbbee49cc35281ba5bbe5857b7f9f75e277e642e33456ea1b734a19962edf880 </tarball-checksum>
 </plugin>
