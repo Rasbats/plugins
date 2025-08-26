@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> CanadianTides </name>
-  <version> 0.9.0+747.b34cb5c </version>
+  <version> 0.9.0+760.3e292db </version>
   <release> 0 </release>
   <summary> Show Canadian tidal heights for LW/HW </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-x86_64</target>
   <target-version>12</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/canadiantides-alpha/raw/names/CanadianTides-0.9-debian-x86_64-12-tarball/versions/0.9.0+747.b34cb5c/CanadianTides-0.9.0+747.b34cb5c_debian-x86_64-12-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> b4af1b908bcc413d163ea3c7266efd4f69bd8a0f9ecac7f1840a7368f4ae48be </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/canadiantides-alpha/raw/names/CanadianTides-0.9-debian-x86_64-12-tarball/versions/0.9.0+760.3e292db/CanadianTides-0.9.0+760.3e292db_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 9bb22ad9ad40a0ac36b078e673bbb90ff2fe920aabd36c0c805ed48f1f2f9796 </tarball-checksum>
 </plugin>
