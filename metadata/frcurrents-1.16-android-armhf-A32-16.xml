@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/4459 -->
+<!-- https://circleci.com/gh/Rasbats/frcurrents_pi/4524 -->
 <plugin version="1">
   <name> frcurrents </name>
-  <version> 1.16.8+4459.cbd6b53 </version>
+  <version> 1.16.8+4524.b79b404 </version>
   <release> 0 </release>
   <summary> French Tidal Currents </summary>
 
@@ -18,6 +18,6 @@
   <target>android-armhf</target>
   <target-version>16</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.16-android-armhf-A32-16-tarball/versions/1.16.8+4459.cbd6b53/frcurrents-1.16.8+4459.cbd6b53_android-armhf-16-armhf.tar.gz </tarball-url>
-  <tarball-checksum> bcf3dd558c4d20df71c2e8be1dc50aff0bda4f19a4f61b6241f785270897fc64 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/frcurrents-alpha/raw/names/frcurrents-1.16-android-armhf-A32-16-tarball/versions/1.16.8+4524.b79b404/frcurrents-1.16.8+4524.b79b404_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 31de0a1ca75f3209fed654eca618f5616fbee48191b92e5e29cbf7923e36652d </tarball-checksum>
 </plugin>
