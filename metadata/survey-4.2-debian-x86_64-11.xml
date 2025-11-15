@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/survey_pi/1029 -->
+<!-- https://circleci.com/gh/Rasbats/survey_pi/1044 -->
 <plugin version="1">
   <name> survey </name>
-  <version> 4.2.0+1029.9adba5f </version>
+  <version> 4.2.0+1044.0b6fb85 </version>
   <release> 0 </release>
   <summary> Survey </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-x86_64</target>
   <target-version>11</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.2-debian-x86_64-11-tarball/versions/4.2.0+1029.9adba5f/survey-4.2.0+1029.9adba5f_debian-x86_64-11-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 1abf68ffb7587e32375d286a078fd31d1d01f9d277025a0abc6e5e390295d214 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.2-debian-x86_64-11-tarball/versions/4.2.0+1044.0b6fb85/survey-4.2.0+1044.0b6fb85_debian-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 4cad89e55a85dd4066c8efa82e7fc51247098a6da0a444c3bbd34f4923fce841 </tarball-checksum>
 </plugin>
