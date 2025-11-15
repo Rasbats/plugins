@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> survey </name>
-  <version> 4.2.0+1039.9adba5f </version>
+  <version> 4.2.0+1056.0b6fb85 </version>
   <release> 0 </release>
   <summary> Survey </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-armhf</target>
   <target-version>13</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.2-debian-armhf-A32-13-tarball/versions/4.2.0+1039.9adba5f/survey-4.2.0+1039.9adba5f_debian-armhf-13-armhf.tar.gz </tarball-url>
-  <tarball-checksum> f1ad67a16b4c392b234e91229909902d5abcef2433c9540e79592db0ff163f9c </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.2-debian-armhf-A32-13-tarball/versions/4.2.0+1056.0b6fb85/survey-4.2.0+1056.0b6fb85_debian-armhf-13-armhf.tar.gz </tarball-url>
+  <tarball-checksum> e654a8fe69a323387e0bc97418d4854b976e85b81d107a97ce249a14694e8195 </tarball-checksum>
 </plugin>
