@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/survey_pi/1035 -->
+<!-- https://circleci.com/gh/Rasbats/survey_pi/1049 -->
 <plugin version="1">
   <name> survey </name>
-  <version> 4.2.0+1035.9adba5f </version>
+  <version> 4.2.0+1049.0b6fb85 </version>
   <release> 0 </release>
   <summary> Survey </summary>
 
@@ -18,6 +18,6 @@
   <target>flatpak-x86_64</target>
   <target-version>24.08</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.2-flatpak-x86_64-24.08-tarball/versions/4.2.0+1035.9adba5f/survey-4.2.0+1035.9adba5f_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 30935b11617b53c4b9ead73198d5b8bb1451a2bc7b662fc49a1eec33ca94d939 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.2-flatpak-x86_64-24.08-tarball/versions/4.2.0+1049.0b6fb85/survey-4.2.0+1049.0b6fb85_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 1329911fe59ac6f26e3f2202fa1a049cefb3a413f6f9d696b3e1734e1448e9b8 </tarball-checksum>
 </plugin>
