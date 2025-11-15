@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/vfkaps-pi/builds/53082064 -->
+<!-- https://ci.appveyor.com/project/Rasbats/vfkaps-pi/builds/53082065 -->
 <plugin version="1">
   <name> vfkaps </name>
   <version> v4.1.2 </version>
@@ -19,5 +19,5 @@
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/vfkaps-prod/raw/names/vfkaps-v4.1.2-msvc-wx32-10-tarball/versions/v4.1.2/vfkaps-v4.1.2_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 3c49c6c2c83ac5680eb4b659570af6dc60e770894bc01ccc047c8cdd33e7ff8b </tarball-checksum>
+  <tarball-checksum> b33844ba8311ff59dc0910e5d0dcdbeaf46de0930dac6dcb509fec478dd1a637 </tarball-checksum>
 </plugin>
