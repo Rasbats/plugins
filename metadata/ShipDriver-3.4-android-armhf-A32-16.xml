@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/11473 -->
+<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/11488 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.4.7+11473.e2c00f6 </version>
+  <version> 3.4.7+11488.910569a </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>android-armhf</target>
   <target-version>16</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.4-android-armhf-A32-16-tarball/versions/3.4.7+11473.e2c00f6/ShipDriver-3.4.7+11473.e2c00f6_android-armhf-16-armhf.tar.gz </tarball-url>
-  <tarball-checksum> 02a7c26ddbbe50e736e576337b2f54046af6829db7ab3375775286ccce711597 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.4-android-armhf-A32-16-tarball/versions/3.4.7+11488.910569a/ShipDriver-3.4.7+11488.910569a_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 035f706aedd215943f559cf9626ca9c7662d4a33fb2ffdc2895212978413d0ea </tarball-checksum>
 </plugin>
