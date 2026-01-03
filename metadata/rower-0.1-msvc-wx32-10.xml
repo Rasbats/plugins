@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://ci.appveyor.com/project/Rasbats/shipdriver-pi/builds/53316563 -->
+<plugin version="1">
+  <name> rower </name>
+  <version> 0.1.0+1617.f714795 </version>
+  <release> 0 </release>
+  <summary> Simulate ship movements </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/rower_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/rower.html </info-url>
+
+  <description> Simulates navigation of a vessel. Using the sail option and a current
+grib file for wind data, simulates how a sailing vessel might react in
+those conditions. Using 'Preferences' the simulator is able to record AIS
+data from itself. This can be replayed to simulate collision situations.
+ </description>
+
+  <target>msvc-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>x86</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/rower-alpha/raw/names/rower-0.1-msvc-wx32-10-tarball/versions/0.1.0+1617.f714795/rower-0.1.0+1617.f714795_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 56f098b87168d7812815ee24558e7fbe148ceb7284778704a329ccf72b915734 </tarball-checksum>
+</plugin>
