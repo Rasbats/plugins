@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/11523 -->
+<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/11560 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.4.7+11523.a9ce38f </version>
+  <version> 3.4.7+11560.e49a77f </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.4-darwin-wx32-10-tarball/versions/3.4.7+11523.a9ce38f/ShipDriver-3.4.7+11523.a9ce38f_darwin-wx32-10-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 47610108929ef7ffffa7bc1829684c25962c47f4d3532b30e365e1918af6fba5 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.4-darwin-wx32-10-tarball/versions/3.4.7+11560.e49a77f/ShipDriver-3.4.7+11560.e49a77f_darwin-wx32-10-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> e2601551e0891ebd2a4ceb7d47e2e19f4d095316ffc256b7b9b5bed47c4a1118 </tarball-checksum>
 </plugin>
