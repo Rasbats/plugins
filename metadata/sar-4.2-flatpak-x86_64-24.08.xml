@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/sar_pi/1809 -->
+<plugin version="1">
+  <name> sar </name>
+  <version> 4.2.2+1809.7ab8de2 </version>
+  <release> 0 </release>
+  <summary> Produces SAR search patterns as GPX files </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/sar_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/sar.html </info-url>
+
+  <description> Enables production of SAR search patterns, in GPX format, that can
+be imported into OpenCPN to assist in performing searches.
+ </description>
+
+  <target>flatpak-x86_64</target>
+  <target-version>24.08</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.2-flatpak-x86_64-24.08-tarball/versions/4.2.2+1809.7ab8de2/sar-4.2.2+1809.7ab8de2_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> c4591084c200f9f34f18d6776d513b1a1049c27d229cdde5bd4d5916380b2187 </tarball-checksum>
+</plugin>
