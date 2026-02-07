@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/sar_pi/1947 -->
+<!-- https://circleci.com/gh/Rasbats/sar_pi/2016 -->
 <plugin version="1">
   <name> sar </name>
-  <version> 4.2.2+1947.5b1605d </version>
+  <version> 4.2.2+2016.5cd8cd6 </version>
   <release> 0 </release>
   <summary> Produces SAR search patterns as GPX files </summary>
 
@@ -19,6 +19,6 @@ be imported into OpenCPN to assist in performing searches.
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.2-darwin-wx32-universal-10-tarball/versions/4.2.2+1947.5b1605d/sar-4.2.2+1947.5b1605d_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 949ae7cfbacabcd103a7bcc072502f7dbe18706d83b466012bb8ff4387909d9b </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.2-darwin-wx32-universal-10-tarball/versions/4.2.2+2016.5cd8cd6/sar-4.2.2+2016.5cd8cd6_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> e9ea121afea7c0c1b21feff5e35410595718e9e535d5eba34fd3f5a8749b8eec </tarball-checksum>
 </plugin>
