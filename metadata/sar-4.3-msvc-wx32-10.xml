@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/sar-pi/builds/53508715 -->
+<!-- https://ci.appveyor.com/project/Rasbats/sar-pi/builds/53509470 -->
 <plugin version="1">
   <name> sar </name>
-  <version> 4.3.0+212.39405dc </version>
+  <version> 4.3.0+214.6967173 </version>
   <release> 0 </release>
   <summary> Produces SAR search patterns as GPX files </summary>
 
@@ -19,6 +19,6 @@ be imported into OpenCPN to assist in performing searches.
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.3-msvc-wx32-10-tarball/versions/4.3.0+212.39405dc/sar-4.3.0+212.39405dc_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> bbc7de997f94f3cd0de63da32e7f228fb26085faf481ff378e15192a6b3abb77 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.3-msvc-wx32-10-tarball/versions/4.3.0+214.6967173/sar-4.3.0+214.6967173_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 65bbf7221133990031d4c199878f6c89f149aae29ea67fcffcdba65c27b8dd23 </tarball-checksum>
 </plugin>
