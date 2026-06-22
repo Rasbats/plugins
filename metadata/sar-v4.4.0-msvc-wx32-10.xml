@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/sar-pi/builds/54254992 -->
+<!-- https://ci.appveyor.com/project/Rasbats/sar-pi/builds/54254993 -->
 <plugin version="1">
   <name> sar </name>
   <version> v4.4.0 </version>
@@ -20,5 +20,5 @@ be imported into OpenCPN to assist in performing searches.
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-prod/raw/names/sar-v4.4.0-msvc-wx32-10-tarball/versions/v4.4.0/sar-v4.4.0_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 9bc7083bff39ccf697a3a31f5c2566da5dc5e5480c8b2fe3543b8ffd32258fb2 </tarball-checksum>
+  <tarball-checksum> aaa4e731971516e1c71d3172ec8f8095fa0bf22816342242b311a4cd4b40cddd </tarball-checksum>
 </plugin>
