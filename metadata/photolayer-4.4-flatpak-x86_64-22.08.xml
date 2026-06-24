@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/photolayer_pi/4861 -->
+<!-- https://circleci.com/gh/Rasbats/photolayer_pi/4880 -->
 <plugin version="1">
   <name> photolayer </name>
-  <version> 4.4.0+4861.3e706e2 </version>
+  <version> 4.4.0+4880.3070bf5 </version>
   <release> 0 </release>
   <summary> Display geotiff files with transparency </summary>
 
@@ -18,6 +18,6 @@
   <target>flatpak-x86_64</target>
   <target-version>22.08</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-alpha/raw/names/photolayer-4.4-flatpak-x86_64-22.08-tarball/versions/4.4.0+4861.3e706e2/photolayer-4.4.0+4861.3e706e2_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 3a7303b787a25e8b0b5ce5a5533f18608cdc3c9399bcc8f1ab4970cfa632f51a </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-alpha/raw/names/photolayer-4.4-flatpak-x86_64-22.08-tarball/versions/4.4.0+4880.3070bf5/photolayer-4.4.0+4880.3070bf5_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 047ea076a261a6f2d13d7793a574105935e5b6ae1ba6a043b26008c7fa605850 </tarball-checksum>
 </plugin>
