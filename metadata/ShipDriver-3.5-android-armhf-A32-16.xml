@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/12177 -->
+<plugin version="1">
+  <name> ShipDriver </name>
+  <version> 3.5.2+12177.d6d6023 </version>
+  <release> 0 </release>
+  <summary> Simulate ship movements </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/shipdriver_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/shipdriver.html </info-url>
+
+  <description> Simulates navigation of a vessel. Using the sail option and a current
+grib file for wind data, simulates how a sailing vessel might react in
+those conditions. Using 'Preferences' the simulator is able to record AIS
+data from itself. This can be replayed to simulate collision situations.
+ </description>
+
+  <target>android-armhf</target>
+  <target-version>16</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.5-android-armhf-A32-16-tarball/versions/3.5.2+12177.d6d6023/ShipDriver-3.5.2+12177.d6d6023_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 90c4c2bfd218bc68c5f572e897bce28fcfbd54e676e9edc28cb1e0ea3b3fb75b </tarball-checksum>
+</plugin>
