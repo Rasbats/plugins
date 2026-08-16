@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://ci.appveyor.com/project/Rasbats/sar-pi/builds/54552941 -->
+<plugin version="1">
+  <name> sar </name>
+  <version> 4.4.0+299.0b1dffd </version>
+  <release> 0 </release>
+  <summary> Produces SAR search patterns as GPX files </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/sar_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/sar.html </info-url>
+
+  <description> Enables production of SAR search patterns, in GPX format, that can
+be imported into OpenCPN to assist in performing searches.
+ </description>
+
+  <target>msvc-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>x86</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.4-msvc-wx32-10-tarball/versions/4.4.0+299.0b1dffd/sar-4.4.0+299.0b1dffd_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> ae373361e39202de6a68ac2c40ed71f2585200d8fbc1adbf8679de3d29a2c4d0 </tarball-checksum>
+</plugin>
