@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> sar </name>
+  <version> 4.4.0+3233.0b1dffd </version>
+  <release> 0 </release>
+  <summary> Produces SAR search patterns as GPX files </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/sar_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/sar.html </info-url>
+
+  <description> Enables production of SAR search patterns, in GPX format, that can
+be imported into OpenCPN to assist in performing searches.
+ </description>
+
+  <target>debian-armhf</target>
+  <target-version>13</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/sar-alpha/raw/names/sar-4.4-debian-armhf-A32-13-tarball/versions/4.4.0+3233.0b1dffd/sar-4.4.0+3233.0b1dffd_debian-armhf-13-armhf.tar.gz </tarball-url>
+  <tarball-checksum> a48eca3cfab42c666c1e8d5d53f6405aca01133e0e1220decd386bd9f5d165f2 </tarball-checksum>
+</plugin>
