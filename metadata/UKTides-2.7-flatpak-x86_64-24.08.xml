@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/UKTides_pi/5116 -->
+<!-- https://circleci.com/gh/Rasbats/UKTides_pi/5132 -->
 <plugin version="1">
   <name> UKTides </name>
-  <version> 2.7.0+5116.6f488c1 </version>
+  <version> 2.7.2+5132.d8f8458 </version>
   <release> 0 </release>
   <summary> Show UK tidal heights for LW/HW </summary>
 
@@ -18,6 +18,6 @@
   <target>flatpak-x86_64</target>
   <target-version>24.08</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/uktides-alpha/raw/names/UKTides-2.7-flatpak-x86_64-24.08-tarball/versions/2.7.0+5116.6f488c1/UKTides-2.7.0+5116.6f488c1_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 741af841a19b3c5dfac4204a395967dd9ecada9a1b1cc29248f05844c7c8a1c1 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/uktides-alpha/raw/names/UKTides-2.7-flatpak-x86_64-24.08-tarball/versions/2.7.2+5132.d8f8458/UKTides-2.7.2+5132.d8f8458_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> cb69ba4a0a5c43823a87937a4d3a88fb6302c7882eeed68d24d42b4666fd6c6a </tarball-checksum>
 </plugin>
