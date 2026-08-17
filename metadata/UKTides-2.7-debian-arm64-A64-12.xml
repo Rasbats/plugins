@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> UKTides </name>
+  <version> 2.7.0+5031.7d627ab </version>
+  <release> 0 </release>
+  <summary> Show UK tidal heights for LW/HW </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/uktides_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/uktides.html </info-url>
+
+  <description> Show UK Tides (HW/LW) at over 600 ports.
+ </description>
+
+  <target>debian-arm64</target>
+  <target-version>12</target-version>
+  <target-arch>arm64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/uktides-alpha/raw/names/UKTides-2.7-debian-arm64-A64-12-tarball/versions/2.7.0+5031.7d627ab/UKTides-2.7.0+5031.7d627ab_debian-arm64-12-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 6e5539e9b098d5bc8030c20f7fdf8ee5f2eabc9d168e447e6b828e938a24597f </tarball-checksum>
+</plugin>
