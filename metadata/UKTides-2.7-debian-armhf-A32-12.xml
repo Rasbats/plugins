@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> UKTides </name>
-  <version> 2.7.1+5155.06616fc </version>
+  <version> 2.7.2+5180.7c6f81d </version>
   <release> 0 </release>
   <summary> Show UK tidal heights for LW/HW </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-armhf</target>
   <target-version>12</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/uktides-alpha/raw/names/UKTides-2.7-debian-armhf-A32-12-tarball/versions/2.7.1+5155.06616fc/UKTides-2.7.1+5155.06616fc_debian-armhf-12-armhf.tar.gz </tarball-url>
-  <tarball-checksum> a73e7fb06d9b384966eb5453ce2359ec08c0b6b6aea9787887653efde1c2285b </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/uktides-alpha/raw/names/UKTides-2.7-debian-armhf-A32-12-tarball/versions/2.7.2+5180.7c6f81d/UKTides-2.7.2+5180.7c6f81d_debian-armhf-12-armhf.tar.gz </tarball-url>
+  <tarball-checksum> 958ceef1acb151cb715d4e6ef43e5619a52493419acf34c15afea7dda2777507 </tarball-checksum>
 </plugin>
