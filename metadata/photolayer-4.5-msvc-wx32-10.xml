@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/photolayer-pi-2n8js/builds/54747120 -->
+<!-- https://ci.appveyor.com/project/Rasbats/photolayer-pi-2n8js/builds/54747158 -->
 <plugin version="1">
   <name> photolayer </name>
-  <version> 4.5.0+70.2ff73a2 </version>
+  <version> 4.5.0+72.b88b7bd </version>
   <release> 0 </release>
   <summary> Display geotiff files with transparency </summary>
 
@@ -18,6 +18,6 @@
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-alpha/raw/names/photolayer-4.5-msvc-wx32-10-tarball/versions/4.5.0+70.2ff73a2/photolayer-4.5.0+70.2ff73a2_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 79c4c1ba364869a96c52a389a42933ed20606b4d64f8f1cd46196fe8bd946fb6 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-alpha/raw/names/photolayer-4.5-msvc-wx32-10-tarball/versions/4.5.0+72.b88b7bd/photolayer-4.5.0+72.b88b7bd_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> b820aec1754de402898251e9f4b054467bf2f95200a0d9db846cc29531ae9441 </tarball-checksum>
 </plugin>
