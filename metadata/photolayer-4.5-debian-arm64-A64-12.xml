@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> photolayer </name>
-  <version> 4.5.0+5300.f2420be </version>
+  <version> 4.5.0+5303.6e410f2 </version>
   <release> 0 </release>
   <summary> Display geotiff files with transparency </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-arm64</target>
   <target-version>12</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-alpha/raw/names/photolayer-4.5-debian-arm64-A64-12-tarball/versions/4.5.0+5300.f2420be/photolayer-4.5.0+5300.f2420be_debian-arm64-12-arm64.tar.gz </tarball-url>
-  <tarball-checksum> bb08479094620596250a50267fbd7111a3a62ee27cbe09c44bcf89c63dae864d </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-alpha/raw/names/photolayer-4.5-debian-arm64-A64-12-tarball/versions/4.5.0+5303.6e410f2/photolayer-4.5.0+5303.6e410f2_debian-arm64-12-arm64.tar.gz </tarball-url>
+  <tarball-checksum> b451dd9d6bfa5869ffb4518b47366be6816bb5755a2075cdc9be1ab73d1b04ef </tarball-checksum>
 </plugin>
