@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/photolayer_pi/5258 -->
+<!-- https://circleci.com/gh/Rasbats/photolayer_pi/5276 -->
 <plugin version="1">
   <name> photolayer </name>
-  <version> 4.5.0+5258.db78676 </version>
+  <version> 4.5.0+5276.918b933 </version>
   <release> 0 </release>
   <summary> Display geotiff files with transparency </summary>
 
@@ -18,6 +18,6 @@
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-alpha/raw/names/photolayer-4.5-darwin-wx32-universal-10-tarball/versions/4.5.0+5258.db78676/photolayer-4.5.0+5258.db78676_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> c9a6e3cc67582c0d532d226cfb4b534e9fef174f2c02698cb1bf04b781c3cae5 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-alpha/raw/names/photolayer-4.5-darwin-wx32-universal-10-tarball/versions/4.5.0+5276.918b933/photolayer-4.5.0+5276.918b933_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 0fc1a3beef6473238020e9ab2e268130f34684c8b648d0db2f9fbb7a60c7d87c </tarball-checksum>
 </plugin>
