@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/photolayer_pi/5233 -->
+<plugin version="1">
+  <name> photolayer </name>
+  <version> 4.5.0+5233.f6dd8ab </version>
+  <release> 0 </release>
+  <summary> Display geotiff files with transparency </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/photolayer_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/photolayer.html </info-url>
+
+  <description> Display geotiff files with adjustable transparency, as an overlay.
+ </description>
+
+  <target>flatpak-x86_64</target>
+  <target-version>22.08</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-alpha/raw/names/photolayer-4.5-flatpak-x86_64-22.08-tarball/versions/4.5.0+5233.f6dd8ab/photolayer-4.5.0+5233.f6dd8ab_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 1e07d919fbc951c38b24a7168ce51bd8100ad46be0dd04139df238ff8bce678b </tarball-checksum>
+</plugin>
