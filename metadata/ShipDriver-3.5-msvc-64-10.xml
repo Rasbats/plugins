@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/shipdriver-pi/builds/54920425 -->
+<!-- https://ci.appveyor.com/project/Rasbats/shipdriver-pi/builds/54931406 -->
 <plugin version="1">
   <name> ShipDriver </name>
-  <version> 3.5.2+1700.843f788 </version>
+  <version> 3.5.2+1701.7a90412 </version>
   <release> 0 </release>
   <summary> Simulate ship movements </summary>
 
@@ -21,6 +21,6 @@ data from itself. This can be replayed to simulate collision situations.
   <target>msvc-64</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.5-msvc-64-10-tarball/versions/3.5.2+1700.843f788/ShipDriver-3.5.2+1700.843f788_msvc-64-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 2f5d8096b292cac8ffc09993767587bc2f9b714edba8672cf730438c6060bada </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-alpha/raw/names/ShipDriver-3.5-msvc-64-10-tarball/versions/3.5.2+1701.7a90412/ShipDriver-3.5.2+1701.7a90412_msvc-64-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 3fd1a2fb84705a844c43be287fa024f874104b57956ad238568a5405e4712201 </tarball-checksum>
 </plugin>
