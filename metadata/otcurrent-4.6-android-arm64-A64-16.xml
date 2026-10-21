@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/otcurrent_pi/6023 -->
+<plugin version="1">
+  <name> otcurrent </name>
+  <version> 4.6.7+6023.44f821c </version>
+  <release> 0 </release>
+  <summary> Predict future tidal currents </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/otcurrent_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/otcurrent.html </info-url>
+
+  <description> Allows predictions of future tidal currents, based on the harmonics data in
+OpenCPN.
+ </description>
+
+  <target>android-arm64</target>
+  <target-version>16</target-version>
+  <target-arch>arm64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.6-android-arm64-A64-16-tarball/versions/4.6.7+6023.44f821c/otcurrent-4.6.7+6023.44f821c_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 92f46a9871abcce832ef4fe743402f6cd52eccb3e46c128867023ee5bbc229a4 </tarball-checksum>
+</plugin>
