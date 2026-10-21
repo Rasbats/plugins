@@ -22,5 +22,5 @@ data from itself. This can be replayed to simulate collision situations.
   <target-version>13</target-version>
   <target-arch>arm64</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-prod/raw/names/ShipDriver-sd3.5.1-debian-arm64-A64-13-tarball/versions/sd3.5.1/ShipDriver-sd3.5.1_debian-arm64-13-arm64.tar.gz </tarball-url>
-  <tarball-checksum> dffa53ac14321052c72bbd14fc21dd616fbda460d9d8080e7766c50efa1aae3f </tarball-checksum>
+  <tarball-checksum> 87b9a06e1a8d95c3e3e5f18f2ee2f201a150351943dc916b7a37ad48b6b780cf </tarball-checksum>
 </plugin>
