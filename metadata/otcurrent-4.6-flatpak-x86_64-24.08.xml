@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Rasbats/otcurrent_pi/6028 -->
+<plugin version="1">
+  <name> otcurrent </name>
+  <version> 4.6.7+6028.44f821c </version>
+  <release> 0 </release>
+  <summary> Predict future tidal currents </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/otcurrent_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/otcurrent.html </info-url>
+
+  <description> Allows predictions of future tidal currents, based on the harmonics data in
+OpenCPN.
+ </description>
+
+  <target>flatpak-x86_64</target>
+  <target-version>24.08</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.6-flatpak-x86_64-24.08-tarball/versions/4.6.7+6028.44f821c/otcurrent-4.6.7+6028.44f821c_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> a78b7b6e4224b3d1b491154ef6e8a203f30856c30bf2e4d0aed0e29c4b0dd9e7 </tarball-checksum>
+</plugin>
