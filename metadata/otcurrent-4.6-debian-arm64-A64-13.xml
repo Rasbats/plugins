@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> otcurrent </name>
+  <version> 4.6.7+6034.44f821c </version>
+  <release> 0 </release>
+  <summary> Predict future tidal currents </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/otcurrent_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/otcurrent.html </info-url>
+
+  <description> Allows predictions of future tidal currents, based on the harmonics data in
+OpenCPN.
+ </description>
+
+  <target>debian-arm64</target>
+  <target-version>13</target-version>
+  <target-arch>arm64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/otcurrent-alpha/raw/names/otcurrent-4.6-debian-arm64-A64-13-tarball/versions/4.6.7+6034.44f821c/otcurrent-4.6.7+6034.44f821c_debian-arm64-13-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 359594536f7ba116aff3307a4e447771158c672bb2c4c75d69fa13e4477e80de </tarball-checksum>
+</plugin>
