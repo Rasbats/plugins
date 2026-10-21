@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/12323 -->
+<!-- https://circleci.com/gh/Rasbats/shipdriver_pi/12339 -->
 <plugin version="1">
   <name> ShipDriver </name>
   <version> sd3.5.1 </version>
@@ -22,5 +22,5 @@ data from itself. This can be replayed to simulate collision situations.
   <target-version>25.08</target-version>
   <target-arch>x86_64</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/shipdriver-prod/raw/names/ShipDriver-sd3.5.1-flatpak-x86_64-25.08-tarball/versions/sd3.5.1/ShipDriver-sd3.5.1_flatpak-x86_64-25.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> fc05e724c001c3b5d7c880d690d2893007c414fba6909de276b3f8f5e8625b92 </tarball-checksum>
+  <tarball-checksum> b6da4dead7ea3d68ccf799d5f9cba58531a6290167f951410ec5c481098ce1a0 </tarball-checksum>
 </plugin>
