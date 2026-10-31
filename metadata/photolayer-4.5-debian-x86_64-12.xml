@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> photolayer </name>
+  <version> 4.5.0+5319.b4ef683 </version>
+  <release> 0 </release>
+  <summary> Display geotiff files with transparency </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> yes </open-source>
+  <author> Mike Rossiter </author>
+  <source> https://github.com/Rasbats/photolayer_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/photolayer.html </info-url>
+
+  <description> Display geotiff files with adjustable transparency, as an overlay.
+ </description>
+
+  <target>debian-x86_64</target>
+  <target-version>12</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-alpha/raw/names/photolayer-4.5-debian-x86_64-12-tarball/versions/4.5.0+5319.b4ef683/photolayer-4.5.0+5319.b4ef683_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 4d96ab2fe197f90c09a26d8cd38f8e0f32f745c6ce39d7c643972167f9c5a83d </tarball-checksum>
+</plugin>
