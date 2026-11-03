@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/photolayer-pi/builds/55019805 -->
+<!-- https://ci.appveyor.com/project/Rasbats/photolayer-pi-2n8js/builds/55019806 -->
 <plugin version="1">
   <name> photolayer </name>
   <version> v4.6.0 </version>
@@ -18,5 +18,5 @@
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/photolayer-prod/raw/names/photolayer-v4.6.0-msvc-64-10-tarball/versions/v4.6.0/photolayer-v4.6.0_msvc-64-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 337bb8042cfc955820c6572e1acdf4fc09c0a3e3c259f3c673e2fc80c6587e29 </tarball-checksum>
+  <tarball-checksum> 477da35512c668a66abe53fd7c22a9058e0ddf673bb58eee75020501e41f0393 </tarball-checksum>
 </plugin>
