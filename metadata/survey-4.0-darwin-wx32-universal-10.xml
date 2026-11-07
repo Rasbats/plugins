@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Rasbats/survey_pi/1645 -->
+<!-- https://circleci.com/gh/Rasbats/survey_pi/1682 -->
 <plugin version="1">
   <name> survey </name>
-  <version> 4.0.0+1645.9d80855 </version>
+  <version> 4.0.0+1682.c04b89e </version>
   <release> 0 </release>
   <summary> Survey </summary>
 
@@ -18,6 +18,6 @@
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.0-darwin-wx32-universal-10-tarball/versions/4.0.0+1645.9d80855/survey-4.0.0+1645.9d80855_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 901473e10f121f3edb3925a64caeb7addec54d853cd2611104611514bba80d06 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.0-darwin-wx32-universal-10-tarball/versions/4.0.0+1682.c04b89e/survey-4.0.0+1682.c04b89e_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> e7ac48a036fceba691e8f0272cf9c587184a5005a4f86fc2d13e7f6cc1f173a8 </tarball-checksum>
 </plugin>
