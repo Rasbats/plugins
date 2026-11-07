@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Rasbats/survey-pi/builds/55044204 -->
+<!-- https://ci.appveyor.com/project/Rasbats/survey-pi/builds/55044427 -->
 <plugin version="1">
   <name> survey </name>
-  <version> 4.0.0+117.9d80855 </version>
+  <version> 4.0.0+119.c04b89e </version>
   <release> 0 </release>
   <summary> Survey </summary>
 
@@ -18,6 +18,6 @@
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.0-msvc-wx32-10-tarball/versions/4.0.0+117.9d80855/survey-4.0.0+117.9d80855_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 2da619d5abddffdab4cea9ec1e600fa4055b6bca05f725c7c78c4572e0f77869 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.0-msvc-wx32-10-tarball/versions/4.0.0+119.c04b89e/survey-4.0.0+119.c04b89e_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 1410fda7df7417eee3d27562c71dd55faec023310ed8124832c70027708420f8 </tarball-checksum>
 </plugin>
