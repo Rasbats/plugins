@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> survey </name>
-  <version> 4.0.0+1642.9d80855 </version>
+  <version> 4.0.0+1673.c04b89e </version>
   <release> 0 </release>
   <summary> Survey </summary>
 
@@ -18,6 +18,6 @@
   <target>debian-arm64</target>
   <target-version>13</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.0-debian-arm64-A64-13-tarball/versions/4.0.0+1642.9d80855/survey-4.0.0+1642.9d80855_debian-arm64-13-arm64.tar.gz </tarball-url>
-  <tarball-checksum> a382b89628374326328863387a96e1c71362dd377436f63c4e228dec6694b598 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/survey-alpha/raw/names/survey-4.0-debian-arm64-A64-13-tarball/versions/4.0.0+1673.c04b89e/survey-4.0.0+1673.c04b89e_debian-arm64-13-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 61e912ee512793a694a03b5d86a49a81422937df5a19b39af37fcb299e6a0cee </tarball-checksum>
 </plugin>
